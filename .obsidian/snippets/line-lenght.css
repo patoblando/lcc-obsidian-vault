@@ -1,0 +1,14 @@
+/*
+ * =======================================================
+ *  SOLUCIÓN AGRESIVA PARA ANCHO DE LÍNEA EN MÓVIL/TABLET
+ * =======================================================
+ * Esto fuerza el ancho del contenido directamente,
+ * sin depender de variables del tema.
+ */
+.is-mobile .markdown-source-view.is-live-preview .cm-contentContainer,
+.is-mobile .markdown-preview-view .markdown-preview-sizer {
+    max-width: 300% !important;
+    width: 100% !important; /* Ajusta este valor si quieres más o menos margen */
+    margin: 0 	!important; /* Centra el contenido */
+	padding: 0;
+}	

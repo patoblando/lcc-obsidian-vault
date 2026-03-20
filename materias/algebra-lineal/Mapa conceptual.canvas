@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"5e694b5c2809e38e","type":"file","file":"materias/algebra-lineal/Independencia lineal.md","x":-875,"y":-860,"width":400,"height":400},
+		{"id":"3124785d39fa14ca","type":"text","text":" Independencia Lineal","x":-785,"y":-340,"width":220,"height":60},
+		{"id":"3047db3aa7159d1f","type":"text","text":"Linealmente Independiente","x":-600,"y":-129,"width":250,"height":60},
+		{"id":"5e3de81b69cf3046","type":"text","text":"Linealmente Independiente","x":-1000,"y":-129,"width":250,"height":60},
+		{"id":"5085ff1099770ccf","x":-20,"y":-760,"width":181,"height":57,"type":"text","text":"[[Espacio Vectorial]]"}
+	],
+	"edges":[
+		{"id":"34284c5ad5ecd4a3","fromNode":"5e694b5c2809e38e","fromSide":"bottom","toNode":"3124785d39fa14ca","toSide":"top"},
+		{"id":"2205d36bd22fb9f9","fromNode":"3124785d39fa14ca","fromSide":"bottom","toNode":"5e3de81b69cf3046","toSide":"top"},
+		{"id":"c3a9e66c8f193098","fromNode":"3124785d39fa14ca","fromSide":"bottom","toNode":"3047db3aa7159d1f","toSide":"top"}
+	]
+}

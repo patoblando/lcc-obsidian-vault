@@ -1,0 +1,1 @@
+- Ejercicio 5 b del final práctico ¿Cómo se resuelven derivadas de funciones por partes?

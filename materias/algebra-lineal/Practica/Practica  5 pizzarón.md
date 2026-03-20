@@ -1,0 +1,2 @@
+- 1 a) $T \in \mathcal{L}(\mathbb{K}^{2})$
+- 
