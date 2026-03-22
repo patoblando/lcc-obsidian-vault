@@ -1,0 +1,1 @@
+Un _grafo_ $g$ es 
