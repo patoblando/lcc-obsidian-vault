@@ -11,12 +11,14 @@
             "id": "0064563d482a80a5",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "attachments/Screenshot_20250926_090640_Samsung Notes.jpg"
+                "file": "materias/Complementos de la Matemática I/Grafo.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Screenshot_20250926_090640_Samsung Notes"
+              "icon": "lucide-file",
+              "title": "Grafo"
             }
           }
         ]
@@ -170,6 +172,7 @@
   },
   "active": "0064563d482a80a5",
   "lastOpenFiles": [
+    "attachments/Screenshot_20250926_090640_Samsung Notes.jpg",
     "attachments/lagrange_invert_B.svg",
     "attachments/diagram_invert_B.svg",
     "materias/algebra-lineal/Transformaciones Linales.md",
