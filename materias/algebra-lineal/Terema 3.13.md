@@ -13,4 +13,4 @@ $$
 # Demostración
 Ver apunte
 
-> No siempre, dadas dos matrices cualesquiera, puedo encontrar una matriz inversible tal que me relaciones ambas dos con esta igualdad. A las matrices que si las puedo relacionar de esta manera las llamamos [[matrices semejantes]]
+> No siempre, dadas dos matrices cualesquiera, puedo encontrar una matriz inversible tal que me relaciones ambas dos con esta igualdad. A las matrices que si las puedo relacionar de esta manera las llamamos [[matrices semejantes 1]]
