@@ -29,11 +29,3 @@
 ### Apéndice A
 
 ### Apéndice B
-
-```c
-void fun (int *a, int *b)
-{
-	doSomething();
-	return;
-}
-```
