@@ -3,5 +3,6 @@
   "image-captions",
   "obsidian-hider",
   "obsidian-git",
-  "vim-yank-highlight"
+  "vim-yank-highlight",
+  "obsidian-vimrc-support"
 ]
