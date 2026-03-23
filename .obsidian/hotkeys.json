@@ -15,5 +15,13 @@
       ],
       "key": "M"
     }
+  ],
+  "app:delete-file": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Q"
+    }
   ]
 }
