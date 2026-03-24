@@ -13,15 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "materias/Complementos de la Matemática I/Grafo.md",
+                "file": "materias/Complementos de la Matemática I/Índice.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Grafo"
+              "title": "Índice"
+            }
+          },
+          {
+            "id": "f192f184cf6e41c2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,8 +181,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0064563d482a80a5",
+  "active": "f192f184cf6e41c2",
   "lastOpenFiles": [
+    "materias/Complementos de la Matemática I/Índice.md",
+    "materias/Complementos de la Matemática I/Grafo.md",
     "attachments/Screenshot_20250926_090640_Samsung Notes.jpg",
     "attachments/lagrange_invert_B.svg",
     "attachments/diagram_invert_B.svg",
@@ -179,8 +192,6 @@
     "materias/algebra-lineal/Terema 3.13.md",
     "materias/algebra-lineal/Teorema 3.19.md",
     "materias/algebra-lineal/Teorema 3.11.md",
-    "materias/Complementos de la Matemática I/Índice.md",
-    "materias/Complementos de la Matemática I/Grafo.md",
     "test.md",
     "Untitled.md",
     "materias/Complementos de la Matemática I"
