@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "materias/Complementos de la Matemática I/Grafo.md",
+                "file": "materias/Complementos de la Matemática I/Teoría/Grafo.md",
                 "mode": "source",
                 "source": false
               },
@@ -198,7 +198,9 @@
   "active": "c3f4310a5dd71fc6",
   "lastOpenFiles": [
     "materias/Complementos de la Matemática I/Índice.md",
-    "materias/Complementos de la Matemática I/Grafo.md",
+    "materias/Complementos de la Matemática I/Teoría/Grafo.md",
+    "materias/Complementos de la Matemática I/Práctica",
+    "materias/Complementos de la Matemática I/Teoría",
     "attachments/Screenshot_20250926_090640_Samsung Notes.jpg",
     "attachments/lagrange_invert_B.svg",
     "attachments/diagram_invert_B.svg",

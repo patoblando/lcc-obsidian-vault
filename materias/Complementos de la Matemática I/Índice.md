@@ -1,4 +1,3 @@
-
 # Introducción
 ---
 ## 1. Definiciones y propiedades básicas
