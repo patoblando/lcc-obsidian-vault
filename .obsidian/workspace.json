@@ -13,10 +13,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "attachments/grafo_center_invert_B.svg"
+                "file": "attachments/grafo2_center_invert_B.svg"
               },
               "icon": "lucide-image",
-              "title": "grafo_center_invert_B"
+              "title": "grafo2_center_invert_B"
             }
           }
         ]
@@ -170,12 +170,13 @@
   },
   "active": "4913fc3cb396a37d",
   "lastOpenFiles": [
+    "attachments/grafo_center_invert_B.svg",
+    "attachments/grafo2_center_invert_B.svg",
     "attachments/grafo_center_invert_B.svg~",
     "materias/Complementos de la Matemática I/Teoría/Grafo.md",
     "Untitled.md",
     "grafo_center_invert_B.svg",
     "grafo_invert_B.svg",
-    "attachments/grafo_center_invert_B.svg",
     "templates/Teorema.md",
     "attachments/grafo_invert_B.svg~",
     "materias/Complementos de la Matemática I/Índice.md",
