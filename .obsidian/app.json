@@ -1,4 +1,8 @@
 {
   "vimMode": true,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "showLineNumber": false,
+  "useTab": false,
+  "promptDelete": false,
+  "trashOption": "local"
 }

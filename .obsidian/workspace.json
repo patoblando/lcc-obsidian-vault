@@ -34,16 +34,6 @@
               "icon": "lucide-file",
               "title": "Grafo"
             }
-          },
-          {
-            "id": "f192f184cf6e41c2",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
           }
         ],
         "currentTab": 1
@@ -192,7 +182,8 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "workspaces:Manage workspace layouts": false
     }
   },
   "active": "c3f4310a5dd71fc6",
