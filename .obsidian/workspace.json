@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4a1d14e2c7975566",
+        "id": "1ef6c390696b6ed3",
         "type": "tabs",
         "children": [
           {
-            "id": "dc81ef46dfd95e09",
+            "id": "34478899b69fe4d0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -170,11 +170,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "dc81ef46dfd95e09",
+  "active": "34478899b69fe4d0",
   "lastOpenFiles": [
+    "Untitled.md",
+    "materias/Complementos de la Matemática I/Teoría/Grafo.md",
     "grafo_center_invert_B.svg",
     "grafo_invert_B.svg",
-    "materias/Complementos de la Matemática I/Teoría/Grafo.md",
     "attachments/grafo_center_invert_B.svg",
     "templates/Teorema.md",
     "attachments/grafo_invert_B.svg~",
