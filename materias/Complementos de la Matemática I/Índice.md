@@ -1,3 +1,4 @@
+#complementos1
 # Introducción 
 [[Apuntes_Intro.pdf|Apunte]]
 ---
@@ -8,7 +9,7 @@
 3. [[Algunos tipos de grafos]]
 4. [[Grafo bipartito]]
 5. [[Grafo bipartito completo]]
-6. [[Conexo Disconexo]]
+6. [[Conexo Disconexo]]#
 ### Primeras propiedades
 1. [[Grado de un vértice]]
 2. [[Teorema de la suma de los grados]]

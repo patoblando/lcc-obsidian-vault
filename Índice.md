@@ -1,5 +1,5 @@
 # Materias
 
 # Complementos de la Matemática I 
-[[Índice]]
+[[materias/Complementos de la Matemática I/Índice|Índice]]
 
