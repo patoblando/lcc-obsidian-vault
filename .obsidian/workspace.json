@@ -6,7 +6,6 @@
       {
         "id": "b9b8ed3f61523aa3",
         "type": "tabs",
-        "dimension": 63.71158392434988,
         "children": [
           {
             "id": "0064563d482a80a5",
@@ -35,15 +34,7 @@
               "icon": "lucide-file",
               "title": "Grafo"
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "7187bd5452b2aa0e",
-        "type": "tabs",
-        "dimension": 36.28841607565012,
-        "children": [
+          },
           {
             "id": "01c9e862e73708ca",
             "type": "leaf",
@@ -56,7 +47,8 @@
               "title": "Apuntes_Intro"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -209,9 +201,9 @@
   },
   "active": "a860112b12b599bb",
   "lastOpenFiles": [
-    "materias/Complementos de la Matemática I/Apuntes_Intro.pdf",
-    "materias/Complementos de la Matemática I/Teoría/Grafo.md",
     "materias/Complementos de la Matemática I/Índice.md",
+    "materias/Complementos de la Matemática I/Teoría/Grafo.md",
+    "materias/Complementos de la Matemática I/Apuntes_Intro.pdf",
     "templates/Teorema.md",
     "materias/Complementos de la Matemática I/Práctica",
     "materias/Complementos de la Matemática I/Teoría",

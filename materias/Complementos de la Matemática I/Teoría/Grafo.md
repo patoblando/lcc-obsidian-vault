@@ -15,3 +15,6 @@ $$
 
 y
 
+$$
+\psi_{G}(a)=uv,\psi_{G}(b)=uu,\psi_{G}(c)=vw,\psi_{G}(d)=xv,\psi_{G}(e)=uv,\psi_{G}(f)=wx,\psi_{G}(g)=ux 
+$$
