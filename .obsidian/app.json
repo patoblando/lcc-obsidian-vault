@@ -4,5 +4,6 @@
   "showLineNumber": false,
   "useTab": false,
   "promptDelete": false,
-  "trashOption": "local"
+  "trashOption": "local",
+  "readableLineLength": true
 }
