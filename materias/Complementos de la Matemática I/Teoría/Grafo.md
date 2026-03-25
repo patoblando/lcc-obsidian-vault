@@ -24,4 +24,4 @@ $$
 \end{align*}
 $$
 Podemos representar este grafo mediante el siguiente dibujo:
-![[grafo_center_invert_B.svg]]
+![[grafo_center_invert_B.svg|Figura 1: Grafo]]
