@@ -6,6 +6,7 @@
       {
         "id": "b9b8ed3f61523aa3",
         "type": "tabs",
+        "dimension": 63.71158392434988,
         "children": [
           {
             "id": "0064563d482a80a5",
@@ -22,7 +23,7 @@
             }
           },
           {
-            "id": "c3f4310a5dd71fc6",
+            "id": "a860112b12b599bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -37,6 +38,25 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "7187bd5452b2aa0e",
+        "type": "tabs",
+        "dimension": 36.28841607565012,
+        "children": [
+          {
+            "id": "01c9e862e73708ca",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "materias/Complementos de la Matemática I/Apuntes_Intro.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Apuntes_Intro"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +113,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "aeaa61e027009740",
@@ -109,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test.md",
+                "file": "materias/Complementos de la Matemática I/Apuntes_Intro.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +140,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for test"
+              "title": "Backlinks for Apuntes_Intro"
             }
           },
           {
@@ -186,10 +207,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "c3f4310a5dd71fc6",
+  "active": "01c9e862e73708ca",
   "lastOpenFiles": [
-    "materias/Complementos de la Matemática I/Índice.md",
     "materias/Complementos de la Matemática I/Teoría/Grafo.md",
+    "materias/Complementos de la Matemática I/Apuntes_Intro.pdf",
+    "materias/Complementos de la Matemática I/Índice.md",
+    "templates/Teorema.md",
     "materias/Complementos de la Matemática I/Práctica",
     "materias/Complementos de la Matemática I/Teoría",
     "attachments/Screenshot_20250926_090640_Samsung Notes.jpg",

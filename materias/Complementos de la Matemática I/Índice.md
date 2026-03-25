@@ -1,4 +1,5 @@
-# Introducción
+# Introducción 
+[[Apuntes_Intro.pdf|Apunte]]
 ---
 ## 1. Definiciones y propiedades básicas
 ## Primeras definiciones
