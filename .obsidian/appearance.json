@@ -2,5 +2,11 @@
   "cssTheme": "Minimal",
   "theme": "system",
   "baseFontSize": 16,
-  "enabledCssSnippets": []
+  "enabledCssSnippets": [
+    "image_align",
+    "adaptive_images",
+    "custom_caption",
+    "image_zoom2",
+    "line-lenght"
+  ]
 }
