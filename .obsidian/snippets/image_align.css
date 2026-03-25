@@ -1,27 +1,27 @@
 img[src*="#_center_#"] {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+    display: block; !important
+    margin-left: auto; !important
+    margin-right: auto; !important
 }
 
 img[src*="#_right_#"] {
-    float:right;
-    clear:right;
-    margin-left: 1rem;
-    margin-bottom: 2px;
-    margin-top: 2px;
+    float:right; !important
+    clear:right; !important
+    margin-left: 1rem; !important
+    margin-bottom: 2px; !important
+    margin-top: 2px; !important
 }
 
 img[src*="#_center"] {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+    display: block; !important
+    margin-left: auto; !important
+    margin-right: auto; !important
 }
 
 img[src*="#_right"] {
-    float:right;
-    clear:right;
-    margin-left: 1rem;
-    margin-bottom: 2px;
-    margin-top: 2px;
+    float:right; !important
+    clear:right; !important
+    margin-left: 1rem; !important
+    margin-bottom: 2px; !important
+    margin-top: 2px; !important
 }
