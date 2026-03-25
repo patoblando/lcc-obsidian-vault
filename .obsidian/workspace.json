@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "materias/Complementos de la Matemática I/Apuntes_Intro.pdf",
+                "file": "materias/Complementos de la Matemática I/Teoría/Grafo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Apuntes_Intro"
+              "title": "Backlinks for Grafo"
             }
           },
           {
@@ -207,10 +207,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "01c9e862e73708ca",
+  "active": "a860112b12b599bb",
   "lastOpenFiles": [
-    "materias/Complementos de la Matemática I/Teoría/Grafo.md",
     "materias/Complementos de la Matemática I/Apuntes_Intro.pdf",
+    "materias/Complementos de la Matemática I/Teoría/Grafo.md",
     "materias/Complementos de la Matemática I/Índice.md",
     "templates/Teorema.md",
     "materias/Complementos de la Matemática I/Práctica",
