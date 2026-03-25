@@ -5,6 +5,7 @@
   "enabledCssSnippets": [
     "adaptive_images",
     "custom_caption",
-    "line-lenght"
+    "line-lenght",
+    "image_align"
   ]
 }
