@@ -1,12 +1,12 @@
 {
   "color": "#59887e",
-  "fontSize": 1.5,
+  "fontSize": 1.4,
   "maxVaultNameLength": 10,
-  "enableMaxLength": true,
+  "enableMaxLength": false,
   "reducedAtStart": false,
   "enableLineWidth": true,
   "enableVaultName": true,
-  "lineWidthPx": 800,
+  "lineWidthPx": 1061,
   "lineWidthColor": "#d84c42",
   "localWidths": {},
   "restoreCursorOnClose": true
