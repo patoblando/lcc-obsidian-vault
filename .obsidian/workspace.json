@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "c8cdd973755eea1c",
+        "id": "c16f01f735dcbbda",
         "type": "tabs",
         "children": [
           {
-            "id": "1d6bd55a80ea3dfa",
+            "id": "4913fc3cb396a37d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "materias/Complementos de la Matemática I/Teoría/Grafo.md",
-                "mode": "source",
-                "source": false
+                "file": "attachments/grafo_center_invert_B.svg"
               },
-              "icon": "lucide-file",
-              "title": "Grafo"
+              "icon": "lucide-image",
+              "title": "grafo_center_invert_B"
             }
           }
         ]
@@ -170,8 +168,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1d6bd55a80ea3dfa",
+  "active": "4913fc3cb396a37d",
   "lastOpenFiles": [
+    "attachments/grafo_center_invert_B.svg~",
     "materias/Complementos de la Matemática I/Teoría/Grafo.md",
     "Untitled.md",
     "grafo_center_invert_B.svg",
