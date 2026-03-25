@@ -1,1 +1,0 @@
-$a \times 2$ $d \cdot 2$ 
