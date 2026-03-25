@@ -14,6 +14,15 @@ V(G)=\{ u, v, w, x \},\quad \space E(G)=\{ a,b,c,d,e,f,g \}
 $$
 
 y
+
 $$
 \psi_{G}(a)=uv, \quad \psi_{G}(b)=uu, \quad \psi_{G}(c)=vw, \quad \psi_{G}(d)=xv, \quad \psi_{G}(e)=uv, \quad \psi_{G}(f)=wx, \quad \psi_{G}(g)=ux 
+$$
+$$
+\psi_{G}(a)=uv,\quad
+\psi_{G}(b)=uu,\quad
+\psi_{G}(c)=vw,\quad
+\psi_{G}(d)=xv,\quad
+\psi_{G}(e)=uv,\quad
+\psi_{G}(a)=uv,\quad
 $$
