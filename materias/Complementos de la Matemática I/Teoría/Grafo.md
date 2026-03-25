@@ -23,3 +23,4 @@ $$
 &\psi_{G}(g)=ux 
 \end{align*}
 $$
+Podemos representar este grafo mediante el siguiente dibujo:
