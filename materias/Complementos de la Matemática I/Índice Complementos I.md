@@ -1,7 +1,9 @@
 #complementos1
 # Introducción 
 
-[[Apuntes_Intro.pdf|Apunte teoría]] [[PR1(Intro)_2025.pdf|Apunte práctica]]
+[[Apuntes_Intro.pdf|Apunte teoría]] 
+[[PR1(Intro)_2025.pdf|Apunte práctica]]
+
 ---
 ## 1. Definiciones y propiedades básicas
 ## Primeras definiciones
@@ -10,7 +12,7 @@
 3. [[Algunos tipos de grafos]]
 4. [[Grafo bipartito]]
 5. [[Grafo bipartito completo]]
-6. [[Conexo Disconexo]]#
+6. [[Conexo Disconexo]]
 ### Primeras propiedades
 1. [[Grado de un vértice]]
 2. [[Teorema de la suma de los grados]]
