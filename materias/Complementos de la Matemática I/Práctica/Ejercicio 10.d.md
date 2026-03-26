@@ -25,4 +25,5 @@ Además, por definición de producto escalar, se cumple que $E(Q_{1})\subseteq \
 ## Paso inductivo
 Supongamos por hipótesis inductiva que $Q_{n}$ es bipartito para algún $n \in \mathbb{N}$. Sea ahora el n-cubo $Q_{n+1}$. 
 
-Como $Q_{n}$ es bipartito, esto quiere decir que, sea 
+Como $Q_{n}$ es bipartito, esto quiere decir que existe una bipartición $(X,Y)$ tal que $E(Q_{n}) \subseteq X \times Y$. Por lo tanto, sea una arista $w = ab$, se tiene que si o si $a \in X$  y  $b \in Y$ o viceversa. 
+
