@@ -1,6 +1,7 @@
 #complementos1
 # Introducción 
-[[Apuntes_Intro.pdf|Apunte]]
+[[Apuntes_Intro.pdf|Apunte teoría]]
+[[PR1(Intro)_2025.pdf]]
 ---
 ## 1. Definiciones y propiedades básicas
 ## Primeras definiciones
