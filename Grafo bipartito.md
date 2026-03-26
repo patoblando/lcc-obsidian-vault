@@ -1,4 +1,8 @@
-#complementos1 #definición
+---
+aliases:
+  - bipartito
+---
+#complementos0 #definición
 
 ---
 # Definición
