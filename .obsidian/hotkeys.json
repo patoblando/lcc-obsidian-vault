@@ -24,16 +24,16 @@
       "key": "Q"
     }
   ],
-  "app:toggle-left-sidebar": [
+  "app:toggle-right-sidebar": [
     {
       "modifiers": [
         "Mod",
         "Shift"
       ],
-      "key": "B"
+      "key": "R"
     }
   ],
-  "app:toggle-right-sidebar": [
+  "app:toggle-left-sidebar": [
     {
       "modifiers": [
         "Mod",
