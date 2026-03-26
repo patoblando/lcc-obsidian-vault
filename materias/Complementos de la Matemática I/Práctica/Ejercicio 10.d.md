@@ -9,9 +9,15 @@
 
 Lo resolveremos utilizando inducción sobre $n$. 
 
-## Caso base.
+> Nota: Para simplificar la notación, voy a notar las aristas y los vértices de la siguiente forma:
+> $$
+u_{Q_{4}} = (1,0,1,1) := 1011, \quad w_{Q_{1}}=\{ (0),(1) \} := 01
+ $$
+ >donde se sabe por contexto de que longitud son las uplas.
+ 
+## Caso base n = 1
 
 Sea $Q_{1}$ el n-cubo de 1-uplas. Luego, claramente
 $$
-V(Q_{q}) = \{ (1), (0) \} \quad \text{y} \quad E(Q_{1}) 
+V(Q_{q}) = \{ (1), (0) \} \quad \text{y} \quad E(Q_{1}) = \{ 10 \}
 $$
