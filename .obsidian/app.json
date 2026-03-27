@@ -5,5 +5,8 @@
   "useTab": false,
   "promptDelete": false,
   "trashOption": "local",
-  "readableLineLength": true
+  "readableLineLength": true,
+  "strictLineBreaks": false,
+  "foldIndent": true,
+  "rightToLeft": false
 }
