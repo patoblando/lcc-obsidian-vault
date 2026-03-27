@@ -2,7 +2,7 @@
 aliases:
   - bipartito
 ---
-#complementos0 #definición
+#complementos1 #definición
 
 ---
 # Definición

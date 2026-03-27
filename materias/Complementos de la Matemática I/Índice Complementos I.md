@@ -27,7 +27,7 @@
 1. [[Grafo de intersección]] 
 2. [[Grafo de linea]]
 ## 2. Operaciones en grafos
-1. [[Operaciones en el mismo grafo eliminacion de vértices y aristas]]
+1. [[Eliminacion de vertices o aristas]]
 2. [[Subgrafos]]
 3. [[Subgrafos inducidos]]
 ## Apéndices
