@@ -31,4 +31,4 @@ Haciendo la demostración así, me doy cuenta que es complicado, porque no hay f
 
 Intentemos de otra manera. 
 
-Sea $Q_{n}$ un grafo n-cubo. Sea $a \in V(G), a=(a_{1},a_{2},a_{3},\dots, a_{n})$. Vemos que $\left| N(a) \right|= n$, porque $G$ es n-regular.
+Sea $Q_{n}$ un grafo n-cubo. Sea $a \in V(G), a=(a_{1},a_{2},a_{3},\dots, a_{n})$. Como $Q_{n}$ es n-regular, el conjunto $N(a)=\{ v_{1},v_{2},v_{3},\dots,v_{n} \}$ tiene cardinal $n$.
