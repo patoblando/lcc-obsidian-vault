@@ -31,4 +31,4 @@ Haciendo la demostración así, me doy cuenta que es complicado, porque no hay f
 
 Intentemos de otra manera. 
 
-Sea $Q_{n}$ un grafo n-cubo. 
+Sea $Q_{n}$ un grafo n-cubo. Sea $a \in V(G), a=(a_{1},a_{2},a_{3},\dots, a_{n})$.
