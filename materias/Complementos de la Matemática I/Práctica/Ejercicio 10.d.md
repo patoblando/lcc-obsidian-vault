@@ -31,4 +31,4 @@ Haciendo la demostración así, me doy cuenta que es complicado, porque no hay f
 
 Intentemos de otra manera. 
 
-Sea $Q_{n}$ un g
+Sea $Q_{n}$ un grafo n-cubo. 
