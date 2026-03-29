@@ -1,1 +1,1 @@
-Dado $U \subseteq V(G)$, el subgrafo 
+Dado $U \subseteq V(G)$, el subgrafo de $G$ inducido por $U$
