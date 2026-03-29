@@ -27,4 +27,8 @@ Supongamos por hipótesis inductiva que $Q_{n}$ es bipartito para algún $n \in 
 
 Como $Q_{n}$ es bipartito, esto quiere decir que existe una bipartición $(X,Y)$ tal que $E(Q_{n}) \subseteq X \times Y$. Por lo tanto, sea una arista $w = ab$, se tiene que si o si $a \in X$  y  $b \in Y$ o viceversa. 
 
-Haciendo la demostración así, me doy cuenta que es complicado, porque no hay forma de relacionar 
+Haciendo la demostración así, me doy cuenta que es complicado, porque no hay forma de relacionar $Q_{n}$ con $Q_{n+1}$.
+
+Intentemos de otra manera. 
+
+Sea $Q_{n}$ un g
