@@ -1,0 +1,1 @@
+Dado $U \subseteq V(G)$, el subgrafo 
