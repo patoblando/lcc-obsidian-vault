@@ -6,7 +6,7 @@ Vamos a desglosar todo punto por punto.
 
 ### ¿Coincide el temario con los parciales anteriores?
 
-**Sí, al 100%.** Tu cátedra ha sido muy consistente. Los parciales de 2023 y 2024 que me pasaste evalúan **exactamente** los temas cubiertos por la Plancha 1 y la Plancha 2, que a su vez se basan en los conceptos de los apuntes 1 al 4. No hay sorpresas ni temas fuera de lugar. Esto es una gran ventaja para ti, porque significa que puedes confiar plenamente en este material para prepararte.
+**Sí, al 100%.** Tu cátedra ha sido muy consistente. Los parciales de 2023 y 2025 que me pasaste evalúan **exactamente** los temas cubiertos por la Plancha 2 y la Plancha 2, que a su vez se basan en los conceptos de los apuntes 1 al 4. No hay sorpresas ni temas fuera de lugar. Esto es una gran ventaja para ti, porque significa que puedes confiar plenamente en este material para prepararte.
 
 ---
 
