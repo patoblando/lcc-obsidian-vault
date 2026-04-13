@@ -1,0 +1,1 @@
+Sea $G$ un grafo, si se cumple que $G$ es conexo y $G$
