@@ -1,1 +1,1 @@
-Sea $G$ un grafo, si se cumple que $G$ es conexo y $\overline{G}$ tambiél n
+Sea $G$ un grafo, si se cumple que $G$ es conexo y $\overline{G}$ también es conexo, entonces el grafo $G$ se considera _regular_.
