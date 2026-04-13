@@ -27,9 +27,15 @@
 1. [[Grafo de intersección]] 
 2. [[Grafo de linea]]
 ## 2. Operaciones en grafos
+### Operaciones en el mismo grafo
 1. [[Eliminacion de vertices o aristas]]
 2. [[Subgrafos]]
 3. [[Subgrafos inducidos]]
+4. [[Complemento]]
+5. [[Proposicion, si G disconexo, G comp conexo]]
+### Algunos parámetros clásicos en grafos
+1. [[Grafo clique]]
+2. [[Conjunto de vertices estbales]]
 ## Apéndices
 
 ### Apéndice A
