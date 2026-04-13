@@ -1,1 +1,1 @@
-Sea $G$ un grafo, si se cumple que $G$ es conexo y $G$
+Sea $G$ un grafo, si se cumple que $G$ es conexo y $\overline{G}$ tambiél n
