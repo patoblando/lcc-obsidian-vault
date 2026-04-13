@@ -37,7 +37,8 @@
 1. [[Grafo clique]]
 2. [[Número de estabilidad]]
 ### Unión y join de grafos
-1. 
+1. [[Definición union y join]]
+2. 
 ## Apéndices
 
 ### Apéndice A
