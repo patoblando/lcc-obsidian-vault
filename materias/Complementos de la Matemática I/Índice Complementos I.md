@@ -35,7 +35,8 @@
 5. [[Proposicion, si G disconexo, G comp conexo]]
 ### Algunos parámetros clásicos en grafos
 1. [[Grafo clique]]
-2. [[Conjunto de vertices estbales]]
+2. [[Número de estabilidad]]
+3. 
 ## Apéndices
 
 ### Apéndice A
