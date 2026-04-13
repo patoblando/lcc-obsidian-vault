@@ -36,7 +36,8 @@
 ### Algunos parámetros clásicos en grafos
 1. [[Grafo clique]]
 2. [[Número de estabilidad]]
-3. 
+### Unión y join de grafos
+1. 
 ## Apéndices
 
 ### Apéndice A
