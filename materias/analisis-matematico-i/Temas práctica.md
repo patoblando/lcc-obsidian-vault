@@ -1,3 +1,4 @@
+#AMI
 Analisis de los tipos de ejercicio más tomados. Texto generado por Gemini 2.5 Pro dados los apuntes de clase y todos los finales prácticos que tengo.
 
 ---

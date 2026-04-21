@@ -1,3 +1,4 @@
+#AMI 
 Analisis de los temas de teoría más tomados y sus referencias. Texto generado por Gemini 2.5 Pro dados los apuntes de clase y todos los finales teóricos que tengo.
 
 ---
