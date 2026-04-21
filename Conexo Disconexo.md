@@ -1,0 +1,1 @@
+Un grafo $G$ es _conexo_ si para toda bipartición $(X,Y)$ de su conjunto de vértices $V(G)$ con $X=\emptyset $
