@@ -41,17 +41,20 @@
 3. [[Proposición: Descomposición Modular]]
 
 # Caminos y Ciclos
-## 1. Definiciones básicas
+### 1. Definiciones básicas
 1. [[Camino]]
 2. [[Lema caminos]]
 3. [[Componente conexa]]
 4. [[Arista y vértice de corte]]
 5. [[Proposición aristas de corte ciclos]]
-## 2. Circuitos eulerianos
+### 2. Circuitos eulerianos
 1. [[Circuito euleriano]]
-2. 
-## 2. 
-
-> _Temas del primer parcial_
+2. [[Lema grado mínimo dos garantiza ciclo]]
+3. [[Corolario descomposición de grafo par en ciclos]]
+4. [[Algoritmo de Fleury]]
+### Grafos dirigidos (digrafos)
+ 
+#
+>_Temas del primer parcial_
 ---
 # Hamiltonicidad
