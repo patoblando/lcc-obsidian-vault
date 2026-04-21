@@ -46,7 +46,9 @@
 2. [[Lema caminos]]
 3. [[Componente conexa]]
 4. [[Arista y vértice de corte]]
-5. 
+5. [[Proposición aristas de corte ciclos]]
+## 2. Circuitos eulerianos
+1. 
 ## 2. 
 
 > _Temas del primer parcial_
