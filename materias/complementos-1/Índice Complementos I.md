@@ -4,9 +4,8 @@
 [[Apuntes_Intro.pdf|Apunte teoría]] 
 [[PR1(Intro)_2025.pdf|Apunte práctica]]
 
----
 ## 1. Definiciones y propiedades básicas
-## Primeras definiciones
+### Primeras definiciones
 1. [[Grafo]]
 2. [[Vecindad abierta cerrada]]
 3. [[Algunos tipos de grafos]]
@@ -40,8 +39,14 @@
 1. [[Definición union y join]]
 2. [[Grafo Modular]]
 3. [[Proposición: Descomposición Modular]]
-## Apéndices
 
-### Apéndice A
+# Caminos y Ciclos
+## 1. Definiciones básicas
+1. [[Camino]]
+2. 
 
-### Apéndice B
+## 2. 
+
+> _Temas del primer parcial_
+---
+# Hamiltonicidad
