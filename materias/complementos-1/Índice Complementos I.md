@@ -43,8 +43,10 @@
 # Caminos y Ciclos
 ## 1. Definiciones básicas
 1. [[Camino]]
-2. 
-
+2. [[Lema caminos]]
+3. [[Componente conexa]]
+4. [[Arista y vértice de corte]]
+5. 
 ## 2. 
 
 > _Temas del primer parcial_
