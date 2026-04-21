@@ -48,7 +48,8 @@
 4. [[Arista y vértice de corte]]
 5. [[Proposición aristas de corte ciclos]]
 ## 2. Circuitos eulerianos
-1. 
+1. [[Circuito euleriano]]
+2. 
 ## 2. 
 
 > _Temas del primer parcial_
