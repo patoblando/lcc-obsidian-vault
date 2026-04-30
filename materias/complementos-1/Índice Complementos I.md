@@ -38,7 +38,11 @@
 ### Unión y join de grafos
 1. [[Definición union y join]]
 2. [[Grafo Modular]]
-3. [[Proposición: Descomposición Modular]]
+3. [[Proposición Descomposición Modular]]
+
+Producto cartesiano
+1. [[Producto cartesiano]]
+2. 
 
 # Caminos y Ciclos
 ### 1. Definiciones básicas
