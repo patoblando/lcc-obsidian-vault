@@ -2,6 +2,6 @@ Dados dos grafos $G$ y $H$, el _grafo producto cartesiano_ de $G$ y $H$ es el gr
 $$
 \begin{align}
 V(G\square H)&= V(G) \times V(H)\\
-E(G\square H)  & = \{ ghg'h' : \text{g o h se conectan en su grafo original.} \}
+E(G\square H)  & = \{ ghg'h' : [g=g' \land hh' \in E(H) ]\lor gg' \in E(G) \land h=h'\} \\
 \end{align}
 $$
