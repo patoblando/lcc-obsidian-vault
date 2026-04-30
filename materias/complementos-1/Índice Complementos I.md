@@ -42,7 +42,15 @@
 
 Producto cartesiano
 1. [[Producto cartesiano]]
-2. 
+2. [[Clique del prod cartesiano]]
+
+##  3. Apéndices
+
+### A. Automorfos
+1. [[Automorfo]]
+### B. Algoritmo de descomposición modular
+1. [[Algoritmo]]
+
 
 # Caminos y Ciclos
 ### 1. Definiciones básicas
@@ -57,7 +65,8 @@ Producto cartesiano
 3. [[Corolario descomposición de grafo par en ciclos]]
 4. [[Algoritmo de Fleury]]
 ### Grafos dirigidos (digrafos)
- 
+
+
 #
 >_Temas del primer parcial_
 ---
