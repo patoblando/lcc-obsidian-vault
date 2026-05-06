@@ -1,1 +1,1 @@
-Sea $G=(V,E)$ un [[Grafo|grafo]], consideremos $X=V$ y $\mathcal{F} \subseteq \mathcal{P}(X) : \mathcal{F} = E$, el 
+Sea $G=(V,E)$ un [[Grafo|grafo]], consideremos $X=V$ y $\mathcal{F} \subseteq \mathcal{P}(X) : \mathcal{F} = E$, el [[Grafo de intersección|grafo de intersección]] de $\mathcal{F}$ se denomina _grafo de linea_ de $G$, notado $L(G)$.
