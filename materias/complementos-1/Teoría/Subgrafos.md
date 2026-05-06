@@ -1,6 +1,6 @@
 ---
 aliases:
-  - subrgrafo
+  - subgrafo
   - subgrafos
 ---
 # Definición
