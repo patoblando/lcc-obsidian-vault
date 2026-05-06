@@ -1,7 +1,7 @@
 #complementos1
 # Introducción 
 
-[[1_Apuntes_Intro.pdf|Apunte teoría]]]] 
+[[1_Apuntes_Intro.pdf|Apunte teoría]] 
 [[PR1(Intro)_2025.pdf|Apunte práctica]]
 
 ## 1. Definiciones y propiedades básicas
@@ -33,8 +33,8 @@
 4. [[Complemento]]
 5. [[Proposicion, si G disconexo, G comp conexo]]
 ### Algunos parámetros clásicos en grafos
-1. [[Grafo clique]]
-2. [[Número de estabilidad]]
+1. [[Grafo clique, numero de clique]]
+2. [[Grafo estable, numero de estabilidad]]
 ### Unión y join de grafos
 1. [[Definición union y join]]
 2. [[Grafo Modular]]
