@@ -1,3 +1,7 @@
+---
+aliases:
+  - grafos
+---
 #complementos1
 
 # Definición

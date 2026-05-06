@@ -1,4 +1,4 @@
-Dados grafos simples $G$ y $H$, decimos que una función $f :V(G) \mapsto V(H)$ es un _isomorfismo_ entre $G$ y $H$ si es **biyectiva** y verifica 
+Dados [[Grafo|grafos]] simples $G$ y $H$, decimos que una función $f :V(G) \mapsto V(H)$ es un _isomorfismo_ entre $G$ y $H$ si es **biyectiva** y verifica 
 $$
 uv \in E(G) \iff f(u)f(v) \in E(H)
 $$
