@@ -1,0 +1,1 @@
+Sea $X$ un conjunto y $\mathcal{F} \subseteq \mathcal{P}(X)$ (un subconjunto del conjunto partes de X), el [[Grafo|grafo]] de intersección de 
