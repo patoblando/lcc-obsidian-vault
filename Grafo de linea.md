@@ -1,0 +1,1 @@
+Sea $G=(V,E)$ un [[Grafo|grafo]], consideremos $X=V$ y $\mathcal{F} \subseteq \mathcal{P}(X) : \mathcal{F} = E$, el 
