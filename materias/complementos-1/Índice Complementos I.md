@@ -1,5 +1,7 @@
 #complementos1
 # Introducción 
+---
+
 
 [[1_Apuntes_Intro.pdf|Apunte teoría]] 
 [[PR1(Intro)_2025.pdf|Apunte práctica]]
@@ -52,7 +54,10 @@ Producto cartesiano
 1. [[Algoritmo]]
 
 
+
+
 # Caminos y Ciclos
+---
 ### 1. Definiciones básicas
 1. [[Camino]]
 2. [[Lema caminos]]
