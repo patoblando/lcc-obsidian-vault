@@ -10,12 +10,14 @@
 1.2.1 [[Partición]]
 1.2.2 [[Suma inferior y suma superior]]
 1.2.3 [[Lema inecuación de sumas inf y sup]]
-1.2.4 [[Lema inecuación inclusion particiones]]
-1.2.5 [[Lema inecuacion sumas inf y sup particiones distintas]]
+1.2.4 [[Lema inecuación inclución particiones]]
+1.2.5 [[Lema inecuación sumas inf y sup particiones distintas]]
 ## 1.3 Funciones Integrables Según Riemann
 1.3.1 [[Integral inferior y superior]]
 1.3.2 [[Integral inf menor igual integral sup]]
 1.3.3 [[Definicion integrabilidad Riemann]]
+1.3.4 [[Definición área bajo la curva]]
+1.3.5 [[]]
 
 ## 1.4 Propiedades de la integral
 
