@@ -1,0 +1,12 @@
+{
+  "vimMode": true,
+  "alwaysUpdateLinks": true,
+  "showLineNumber": false,
+  "useTab": false,
+  "promptDelete": false,
+  "trashOption": "local",
+  "readableLineLength": true,
+  "strictLineBreaks": false,
+  "foldIndent": true,
+  "rightToLeft": false
+}
