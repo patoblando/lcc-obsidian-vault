@@ -6,5 +6,5 @@
   "vim-yank-highlight",
   "obsidian-vimrc-support",
   "vault-name-status-bar",
-  "obsidian-excalidraw-plugin"
+  "lazy-plugins"
 ]
