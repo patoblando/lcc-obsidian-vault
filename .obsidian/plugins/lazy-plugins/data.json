@@ -19,13 +19,13 @@
         "startupType": "instant"
       },
       "image-captions": {
-        "startupType": "instant"
+        "startupType": "short"
       },
       "obsidian-latex-suite": {
         "startupType": "instant"
       },
       "vault-name-status-bar": {
-        "startupType": "instant"
+        "startupType": "short"
       },
       "vim-yank-highlight": {
         "startupType": "instant"
