@@ -1,6 +1,6 @@
 {
   "cssTheme": "Minimal",
-  "theme": "system",
+  "theme": "obsidian",
   "baseFontSize": 16,
   "enabledCssSnippets": [
     "image_align",

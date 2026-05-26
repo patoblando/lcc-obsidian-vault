@@ -34,5 +34,39 @@
         "startupType": "instant"
       }
     }
+  },
+  "mobile": {
+    "shortDelaySeconds": 5,
+    "longDelaySeconds": 15,
+    "delayBetweenPlugins": 40,
+    "defaultStartupType": null,
+    "showDescriptions": true,
+    "enableDependencies": false,
+    "plugins": {
+      "obsidian-excalidraw-plugin": {
+        "startupType": "long"
+      },
+      "obsidian-git": {
+        "startupType": "instant"
+      },
+      "obsidian-hider": {
+        "startupType": "short"
+      },
+      "image-captions": {
+        "startupType": "short"
+      },
+      "obsidian-latex-suite": {
+        "startupType": "instant"
+      },
+      "vault-name-status-bar": {
+        "startupType": "instant"
+      },
+      "vim-yank-highlight": {
+        "startupType": "instant"
+      },
+      "obsidian-vimrc-support": {
+        "startupType": "instant"
+      }
+    }
   }
 }
