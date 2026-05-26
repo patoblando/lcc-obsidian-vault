@@ -5,6 +5,5 @@
   "obsidian-git",
   "vim-yank-highlight",
   "obsidian-vimrc-support",
-  "vault-name-status-bar",
-  "lazy-plugins"
+  "vault-name-status-bar"
 ]
