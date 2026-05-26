@@ -1,18 +1,1 @@
-[
-  "obsidian-latex-suite",
-<<<<<<< HEAD
-  "obsidian-hider",
-  "obsidian-git",
-  "vim-yank-highlight",
-  "obsidian-vimrc-support",
-  "lazy-plugins"
-  "vault-name-status-bar"
-]
-=======
-  "obsidian-git",
-  "vim-yank-highlight",
-  "obsidian-vimrc-support",
-  "vault-name-status-bar",
-  "lazy-plugins"
-]
->>>>>>> origin/main
+[]
