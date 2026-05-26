@@ -1,1 +1,8 @@
-[]
+[
+  "lazy-plugins",
+  "vim-yank-highlight",
+  "obsidian-vimrc-support",
+  "obsidian-hider",
+  "obsidian-latex-suite",
+  "obsidian-git"
+]
