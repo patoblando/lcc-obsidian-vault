@@ -71,12 +71,11 @@ Producto cartesiano
 4. [[Algoritmo de Fleury]]
 ### Grafos dirigidos (digrafos)
 
-
-#
->_Temas del primer parcial_
----
 # Hamiltonicidad
-
+---
+### 1. Definiciones básicas
+1. [[Ciclo hamiltoniano y vértice hamiltoniano]]
+2. 
 
 # Arboles
 ---
