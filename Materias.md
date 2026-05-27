@@ -17,4 +17,6 @@
 - Análisis Matemático II
 
 # Para cursar próximo 4tri
-- Lógicag
+- Lógica
+- Métodos numéricos
+- ¿Podré hacer probabilidad y estadística?
