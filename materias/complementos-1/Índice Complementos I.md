@@ -75,8 +75,12 @@ Producto cartesiano
 ---
 ### 1. Definiciones básicas
 1. [[Ciclo hamiltoniano y grafo hamiltoniano]]
-2. 
-
+### 2. Condiciones necesarias y condiciones suficientes
+1. [[Condición necesaria de la hamiltonicidad]]
+2. [[Notación del número de componentes conexas]]
+3. [[Arista o vértice de corte implica no hamiltoniano]]
+4. [[Condición suficiente para la hamiltonicidad]]
+5. [[Corolarios]]
 # Arboles
 ---
 ## Definiciones
