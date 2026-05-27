@@ -16,7 +16,11 @@
 - Complementos de la Matemática I
 - Análisis Matemático II
 
-# Para cursar próximo 4tri
+# Para cursar próximo cuatrimestre
 - Lógica
-- Métodos numéricos
-- ¿Podré hacer probabilidad y estadística?
+- Métodos Numéricos
+- Probabilidad y Estadística (averiguar si hay recursado)
+- Comunicaciones: Es del segundo cuatrimestre y estaría habilitado a rendirla (!!!)
+
+# Otras materias que puedo cursar 
+- Estructuras de Datos y Algoritmos II (del primer cuatrimestre, probablemente no tenga recursado) 
