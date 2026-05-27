@@ -15,3 +15,6 @@
 # Cursando 
 - Complementos de la Matemática I
 - Análisis Matemático II
+
+# Para cursar próximo 4tri
+- Lógicag
