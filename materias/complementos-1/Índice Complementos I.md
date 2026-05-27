@@ -74,7 +74,7 @@ Producto cartesiano
 # Hamiltonicidad
 ---
 ### 1. Definiciones básicas
-1. [[Ciclo hamiltoniano y vértice hamiltoniano]]
+1. [[Ciclo hamiltoniano y grafo hamiltoniano]]
 2. 
 
 # Arboles
