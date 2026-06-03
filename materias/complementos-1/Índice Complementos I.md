@@ -60,11 +60,16 @@ Producto cartesiano
 ---
 ### 1. Definiciones básicas
 1. [[Camino]]
-2. [[Ciclo]]
-3. [[Lema caminos]]
-4. [[Componente conexa]]
-5. [[Arista y vértice de corte]]
-6. [[Proposición aristas de corte ciclos]]
+2. [[Recorrido]]
+3. [[Camino Simple]]
+4. [[u,v-camino; u,v-recorrido y u,v-camino simple]]
+5. [[Camino cerrado]]
+6. [[Circuito]]
+7. [[Ciclo]]
+8. [[Lema caminos]]
+9. [[Componente conexa]]
+10. [[Arista y vértice de corte]]
+11. [[Proposición aristas de corte ciclos]]
 ### 2. Circuitos eulerianos
 1. [[Circuito euleriano]]
 2. [[Lema grado mínimo dos garantiza ciclo]]
