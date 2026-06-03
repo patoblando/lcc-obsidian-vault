@@ -1,0 +1,1 @@
+Un *[[Definición acíclico, bosque, árbol y hoja|árbol]] recubridor* (o *de expansión*) de un [[Grafo|grafo]] $G$ es un [[Subgrafo recubridor | subgrafo recubridor]] de $G$ que es un árbol.

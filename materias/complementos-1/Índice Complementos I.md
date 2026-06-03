@@ -90,7 +90,9 @@ Producto cartesiano
 # Arboles
 ---
 ## Definiciones
-1. [[Definición acíclico, bosque y arbol]]
+1. [[Definición acíclico, bosque, árbol y hoja]]
+2. [[Subgrafo recubridor]]
+3. [[Árbol recubridor]]
 
 ## Árboles recubridores
 

@@ -1,0 +1,1 @@
+Un _[[Subgrafos|subgrafo]] recubridor_ (o de _expansión_) de un [[Grafo|grafo]] $G$ es un subgrafo de $G$ con los mismos vértices de $G$.
