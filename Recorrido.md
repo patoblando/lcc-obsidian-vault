@@ -1,0 +1,1 @@
+Un _recorrido_ es un [[Camino|camino]] que no repite aristas.

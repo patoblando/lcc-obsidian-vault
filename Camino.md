@@ -1,0 +1,1 @@
+Dado un [[Grafo|grafo]] G, un _camino_ en 

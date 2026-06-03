@@ -60,10 +60,11 @@ Producto cartesiano
 ---
 ### 1. Definiciones básicas
 1. [[Camino]]
-2. [[Lema caminos]]
-3. [[Componente conexa]]
-4. [[Arista y vértice de corte]]
-5. [[Proposición aristas de corte ciclos]]
+2. [[Ciclo]]
+3. [[Lema caminos]]
+4. [[Componente conexa]]
+5. [[Arista y vértice de corte]]
+6. [[Proposición aristas de corte ciclos]]
 ### 2. Circuitos eulerianos
 1. [[Circuito euleriano]]
 2. [[Lema grado mínimo dos garantiza ciclo]]
@@ -84,6 +85,7 @@ Producto cartesiano
 # Arboles
 ---
 ## Definiciones
+1. [[Definición acíclico, bosque y arbol]]
 
 ## Árboles recubridores
 
