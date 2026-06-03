@@ -7,5 +7,5 @@ Además, los extremos no tienen vecinos fuera de $P$, pues $P$ es maximal.
 Ergo, los dos extremos de $P$ son hojas.
 
 $$
-
+\tag*{$\square$}
 $$
