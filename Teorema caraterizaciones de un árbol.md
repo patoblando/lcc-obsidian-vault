@@ -8,4 +8,4 @@ Sea $G$ un [[Grafo|grafos]] con $\left| V(G)= n\right| \geq 1$, los siguiente en
 
 (...)
 
-$(4) \implies (1) \text{ y } (2)$ Sea 
+$(4) \implies (1) \text{ y } (2)$ 
