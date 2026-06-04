@@ -14,7 +14,7 @@ Luego, por lo visto en la teoría[^1] si para todo par de vértices existe un ca
 
 Supongamos que existe un ciclo $C = v=v_{0},e_{1},v_{1},\dots,e_{i}u, uv,v$ en $G$. Luego, si le sacamos la última arista a $C$, está claro que  generamos un $u,v$-camino simple, pues  $C$ no repite aristas y solo repite los vértices de los extremos, por definición. Luego, consideremos la arista que borramos de $C$, esta arista incide en $u$ y $v$, por lo tanto $P=u,uv,v$ es otro camino simple distinto entre $u$ y $v$. Eso es un absurdo, pues contradice la hipótesis directamente.
 
-Luego, por lo visto anteriormente, $(1) \implies $
+Luego, por lo probado anteriormente, $(1) \implies (2)$, completando así la demostración.
 $$
 \tag*{$\square$}
 $$
