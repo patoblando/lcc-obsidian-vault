@@ -5,4 +5,4 @@ Son válidas las siguientes afirmaciones:
 
 *Demostración.* 
 
-(1) Sea $G$ un árbol y sean $u,v \in V(G)$ dos vértices adyacentes cualesquiera. Por el [[Teorema caracterizaciones de un árbol]], existe un único $u,v$-camino simple. Como son adyacentes este camino será: $P=u,uv,v$. Luego, como este es el _único_ camino simple, si consideramos $G \textbackslash e$
+(1) Sea $G$ un árbol y sea $e \in E(G), e=uv$ una arista cualquiera de $G$. Por el [[Teorema caracterizaciones de un árbol]], existe un *único* $u,v$-camino simple. Como este es el _único_ camino simple, siendo $e=uv$, no existen ningún $u,v$-camino en $G \textbackslash e$ (pues todo camino contiene un camino simple). Por ende, $G \textbackslash e$ es disconexo, entonces $e$ es de corte.
