@@ -98,5 +98,6 @@ Producto cartesiano
 6. [[Teorema caracterizaciones de un árbol]]
 7. [[Corolario propiedades]]
 ## Árboles recubridores
-
-
+1. [[Proposiciones aristas 'sobrantes' de árboles recubridores]]
+2. [[Árbol de k aristas subgrafo de grafo con grado mínimo mayor o igual a k]]
+3. 
