@@ -94,7 +94,8 @@ Producto cartesiano
 2. [[Subgrafo recubridor]]
 3. [[Árbol recubridor]]
 4. [[Lema árbol no trivial tiene al menos dos hojas]]
-5. [[Lema árbol no trivial menos hoja sigue siendo arbol]]
-6. [[Teorema caraterizaciones de un árbol]]
+5. [[Lema árbol no trivial menos hoja sigue siendo árbol]]
+6. [[Teorema caracterizaciones de un árbol]]
+7. [[Corolario propiedades]]
 ## Árboles recubridores
 
