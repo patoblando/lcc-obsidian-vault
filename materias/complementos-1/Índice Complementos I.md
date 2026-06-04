@@ -104,5 +104,5 @@ Producto cartesiano
 ## Árboles recubridores de costo óptimo (mínimo o máximo)
 1. [[Definición grafo ponderado]]
 2. [[El algoritmo de Kruskal]]
-## Algoritmo de Dijsktra: Distancia mínima de un vértice a los restantes
-1. 
+## Algoritmo de Dijkstra: Distancia mínima de un vértice a los restantes
+1. [[Algoritmo de Dijkstra]]
