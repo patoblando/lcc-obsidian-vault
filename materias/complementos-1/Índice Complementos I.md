@@ -100,4 +100,8 @@ Producto cartesiano
 ## Árboles recubridores
 1. [[Proposiciones aristas 'sobrantes' de árboles recubridores]]
 2. [[Árbol de k aristas subgrafo de grafo con grado mínimo mayor o igual a k]]
+3. [[Algoritmos BFS y DFS con o sin orden dado]]
+## Árboles recubridores de costo óptimo (mínimo o máximo)
+1. [[Definición grafo ponderado]]
+2. [[El algoritmo de Kruskal]]
 3. 
