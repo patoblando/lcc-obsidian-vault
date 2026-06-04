@@ -5,4 +5,4 @@ Son válidas las siguientes afirmaciones:
 
 *Demostración.* 
 
-(1) Sea $G$ un árbol y sean $u,v \in V(G)$ dos vértices adyacentes cualesquiera. Por el [[Teorema caracterizaciones de un árbol]], existe un único $u,v$-camino simple. Como son adyacentes este camino será: 
+(1) Sea $G$ un árbol y sean $u,v \in V(G)$ dos vértices adyacentes cualesquiera. Por el [[Teorema caracterizaciones de un árbol]], existe un único $u,v$-camino simple. Como son adyacentes este camino será: $P=u,uv,v$. Luego, como este es el _único_ camino simple, si consideramos $G \textbackslash e$
