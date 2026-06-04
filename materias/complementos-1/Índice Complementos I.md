@@ -89,7 +89,7 @@ Producto cartesiano
 5. [[Corolarios]]
 # Arboles
 ---
-## Definiciones
+## Definiciones y propiedades básicas
 1. [[Definición acíclico, bosque, árbol y hoja]]
 2. [[Subgrafo recubridor]]
 3. [[Árbol recubridor]]
@@ -98,4 +98,5 @@ Producto cartesiano
 6. [[Teorema caracterizaciones de un árbol]]
 7. [[Corolario propiedades]]
 ## Árboles recubridores
+
 
