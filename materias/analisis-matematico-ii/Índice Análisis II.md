@@ -66,4 +66,5 @@ TODO: seguir aca
 1. [[sistema polar|Sistema polar]]
 2. [[Conversión entre cartesiano y polar]]
 3. [[Area dentro de la curva cerrada polar]]
+## Volúmen de sólidos de revolución
 
