@@ -73,3 +73,4 @@ TODO: seguir aca
 1. [[Definicion longitud de la curva de una función]]
 ---
 # Aproximación por Polinomios
+## Polinomios de Taylor
