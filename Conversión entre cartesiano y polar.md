@@ -7,7 +7,7 @@ y &= r\sin\theta
 \quad\leftrightarrow\quad
 \begin{cases}
 r^{2}&=x^{2}+y^{2} \\
-\theta=\arctan\left( \frac{x}{2} \right) \\
+\theta&=\arctan\left( \frac{x}{2} \right) \\
 
 \end{cases}
 $$
