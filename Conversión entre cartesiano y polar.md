@@ -10,4 +10,4 @@ r^{2}&=x^{2}+y^{2} \\
 \theta&=\arctan\left( \frac{x}{2} \right) \\
 
 \end{cases}
-$$
+$$![[Screenshot_20260606_181034_Obsidian.jpg]]
