@@ -2,6 +2,10 @@
 $$
 \begin{cases}
 x &= r\cos\theta \\
-y &=
+y &= r\sin\theta
+\end{cases}
+\quad\leftrightarrow\quad
+\begin{cases}
+
 \end{cases}
 $$
