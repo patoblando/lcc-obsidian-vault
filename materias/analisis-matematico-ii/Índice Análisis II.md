@@ -62,7 +62,8 @@ TODO: seguir aca
 
 ---
 # Aplicaciones del cálculo integral
-## Curvas en [[sistema polar]]
-
-e
+## Curvas en sistema polar
+1. [[sistema polar|Sistema polar]]
+2. [[Conversión entre cartesiano y polar]]
+3. 
 
