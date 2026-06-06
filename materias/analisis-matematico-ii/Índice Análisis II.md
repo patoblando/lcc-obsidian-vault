@@ -71,5 +71,5 @@ TODO: seguir aca
 2. [[Volumen del sólido de revolucion sobre el eje y]]
 ## Longitud de curvas
 1. [[Definicion longitud de la curva de una función]]
-
-## Aproximación por Polinomios
+---
+# Aproximación por Polinomios
