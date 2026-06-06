@@ -67,4 +67,5 @@ TODO: seguir aca
 2. [[Conversión entre cartesiano y polar]]
 3. [[Area dentro de la curva cerrada polar]]
 ## Volúmen de sólidos de revolución
-
+1. [[Volumen del sólido de revolución mediante la integral]]
+## 
