@@ -6,6 +6,6 @@ y &= r\sin\theta
 \end{cases}
 \quad\leftrightarrow\quad
 \begin{cases}
-
+rˆ[]
 \end{cases}
 $$
