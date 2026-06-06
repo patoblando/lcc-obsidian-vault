@@ -67,5 +67,9 @@ TODO: seguir aca
 2. [[Conversión entre cartesiano y polar]]
 3. [[Area dentro de la curva cerrada polar]]
 ## Volúmen de sólidos de revolución
-1. [[Volumen del sólido de revolución mediante la integral]]
-## 
+1. [[Volumen del sólido de revolucion sobre el eje x]]
+2. [[Volumen del sólido de revolucion sobre el eje y]]
+## Longitud de curvas
+1. [[Definicion longitud de la curva de una función]]
+
+## Aproximación por Polinomios
