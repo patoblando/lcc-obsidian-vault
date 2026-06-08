@@ -2,4 +2,4 @@ Si $f$ tiene derivadas hasta el orden $n$ en el punto $a=0$ y se busca un polino
 $$
 p(0) = f(0), p'(0) = f'(0),\dots,p^{(n)}(0)=f^{(n)}(0)
 $$
-Tal polinomio no puede tener grado m
+Tal polinomio no puede tener grado menor o igual a $n-1$, pues sería 
