@@ -11,7 +11,7 @@
   "autoDelete$": true,
   "loadSnippetsFromFile": true,
   "loadSnippetVariablesFromFile": false,
-  "snippetsFileLocation": "",
+  "snippetsFileLocation": "latex-snippets",
   "snippetVariablesFileLocation": "",
   "concealEnabled": true,
   "concealRevealTimeout": 0,
