@@ -21,7 +21,7 @@
 5. [[Funcion integrable sii inecuacion epsilon]] (leer bien)
 6. [[Continua implica integrable]]
 
-# Propiedades de la integral
+## Propiedades de la integral
 1. [[Dividir integral en suma de subintervalos]]
 2. [[Definición integral nula e integral negada]]
 3. [[Distributiva de la multiplicación y de la suma de una integra]]
@@ -61,7 +61,9 @@ TODO: seguir aca
 ## Integrales impropias
 
 ---
+
 # Aplicaciones del cálculo integral
+---
 ## Curvas en sistema polar
 1. [[sistema polar|Sistema polar]]
 2. [[Conversión entre cartesiano y polar]]
@@ -73,4 +75,6 @@ TODO: seguir aca
 1. [[Definicion longitud de la curva de una función]]
 ---
 # Aproximación por Polinomios
+---
 ## Polinomios de Taylor
+[[Coincidencia en un punto en la n derivada]]
