@@ -13,4 +13,8 @@ p''' (x)  & = 3 \cdot 2 \cdot 1 \cdot c_{3}x + 4 \cdot 3 \cdot 2 \cdot c_{4}x + 
 p^{(k)}(x) & = k!c_{k} + \frac{(k+1)!}{1!}c_{k+1} x + \frac{(k+2)!}{2!}c_{k+2}x^2+\dots+\frac{n!}{(n-k)!}c_{n}x^{n-k}  & \to p^{k}(0) & =k!\cdot c_{k} 
 \end{cases}
 $$
-Las condiciones $$
+Las condiciones $p^{(k)}(0) = f^{(k)}(0)$, para todo $0 \leq k \leq n$, implicarían entonces los coeficientes
+$$
+c_{k}=\frac{p^{(k)}(0)}{k!}= \frac{f^{(k)}(0)}{k!}.
+$$
+De lo cual deducimos una fórmula para los coeficientes en función de los valores de f y sus derivadas  
