@@ -77,4 +77,5 @@ TODO: seguir aca
 # Aproximación por Polinomios
 ---
 ## Polinomios de Taylor
-[[Coincidencia en un punto en la n derivada]]
+1. [[Coincidencia en a=0 hasta la n derivada]]
+2. [[Polinomio de Taylor de orden n al rededor de a=0]]
