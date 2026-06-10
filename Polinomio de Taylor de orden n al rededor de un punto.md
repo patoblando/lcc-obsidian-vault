@@ -4,4 +4,4 @@ T_{n}(f,0)(x)=T_{n}(f(x),0)(x)= \frac{\sum_{k=0}^{n}f^{(k)}(0)}{k!}x^k.
 $$
 De manera análoga- Mis dos pelotas. 
 
-Si 
+Si en vez de evaluar en 0, evaluamos en $(x - a)$ k
