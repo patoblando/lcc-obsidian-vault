@@ -2,4 +2,6 @@ Si $f$ es una función con derivadas hasta el orden $n$ en el punto $a=0$, llama
 $$
 T_{n}(f,0)(x)=T_{n}(f(x),0)(x)= \frac{\sum_{k=0}^{n}f^{(k)}(0)}{k!}x^k.
 $$
-De manera análogaD
+De manera análoga- Mis dos pelotas. 
+
+Si 
