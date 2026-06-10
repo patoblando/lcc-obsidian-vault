@@ -2,7 +2,7 @@ Si $f$ tiene [[derivada|derivadas]] hasta el orden $n$ en el punto $a=0$ y se bu
 $$
 p(0) = f(0), p'(0) = f'(0),\dots,p^{(n)}(0)=f^{(n)}(0)
 $$
-Para cualquier caso excepto cuando $f^{(n)}(0)=0$, el [[grado]] de $p$ no puede ser menor o igual a $n-1$. Luego, planteamos el sistema de ecuaciones:
+Para cualquier caso excepto cuando $f^{(n)}(0)=0$, el grado de $p$ no puede ser menor o igual a $n-1$. Luego, planteamos el sistema de ecuaciones:
 $$
 \begin{cases}
 p(x) & =c_{0} + c_{1}x+c_{2}x^2+\dots +c_{n}x^n & \to p(0) & =0! \cdot c_{0}\\
