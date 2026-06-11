@@ -6,5 +6,5 @@ De manera análoga- Mis dos pelotas.
 
 Si en vez de evaluar en 0, evaluamos en $(x - a)$, es decir, hacemos un desplazamiento del eje y hacia el punto $a$, entonces la fórmula es, siguiendo un procedimiento análogo al anterior, 
 $$
-T_{n}(f,a)(x) = T_{n}(f(x),a)(x) =\sum_{k=1}^{n}\frac{f^{(k)}(a)}{(k!)}(x-a)^k.
+T_{n}(f,a)(x) = T_{n}(f(x),a)(x) =\sum_{k=0}^{n}\frac{f^{(k)}(a)}{(k!)}(x-a)^k.
 $$
