@@ -22,6 +22,6 @@
     - [X] Instalar obsidian
     - [X] Configurar el repo de obsidian y las credenciales de git
     - [ ] Instalar steam
-    - [ ] Setear keys de GitHub
+    - [ ] ~~Setear keys de GitHub~~
     - [ ] Configurar el autostart de hyprland
     - [ ] Configurar un login manager
