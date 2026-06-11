@@ -2,7 +2,7 @@
 
 - [ ] Configurar NeoVim
     - [ ] Estilizarlo para matchear la estética global
-    - [ ] Configurar / instalar lo necesario para tener reconocimiento de tipos de archivo, autocompletado, highlight, etc.
+    - [ ] Configurar / instalar lo necesario para tener reconocimiento de tipos de archivo, auto-completado, highlight, etc.
     - [ ] Terminar de configurar / instalar el plugin manager lazy.vim
 
 - [ ] Configurar waybar
@@ -23,5 +23,5 @@
     - [X] Configurar el repo de obsidian y las credenciales de git
     - [ ] Instalar steam
     - [ ] Setear keys de GitHub
-    - [ ] Configurar el autoestart de hyprland
+    - [ ] Configurar el autostart de hyprland
     - [ ] Configurar un login manager
