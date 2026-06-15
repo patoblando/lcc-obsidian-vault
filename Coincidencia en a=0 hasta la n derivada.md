@@ -21,6 +21,6 @@ De lo cual deducimos una fórmula para los coeficientes en función de los valor
 
 Si $f$ es una función con derivadas hasta el orden $n$ en el punto $a = 0$, existe un único polinomio $p$ de grado a lo sumo $n$ que satisface las $n+1$ condiciones
 $$
-p^{(k)}(0) = f^{(k)}(0) \text{, para todo } 0\leq k\leq n \text{, y su ley es } p(x) = \frac{\sum_{k=0}^{n}f^{(k)}(0)}{k!}x^k.
+p^{(k)}(0) = f^{(k)}(0) \text{, para todo } 0\leq k\leq n \text{, y su ley es } p(x) = \sum_{k=0}^{n}\frac{f^{(k)}(0)}{k!}x^k.
 $$
 
