@@ -32,6 +32,9 @@
       },
       "obsidian-vimrc-support": {
         "startupType": "instant"
+      },
+      "pdf-plus": {
+        "startupType": "long"
       }
     }
   },
