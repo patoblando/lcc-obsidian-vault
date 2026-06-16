@@ -3,6 +3,7 @@
 # Materias regularizadas pero no aprobadas:
 - Análisis matemático I
 - Álgebra Lineal 
+- Complementos I
 
 # Materias aprobadas:
 - Álgebra y Geometría Analítica I
@@ -13,7 +14,6 @@
 - Arquitectura del Computador
 - Lenguajes formales y Computibilidad
 # Cursando 
-- Complementos de la Matemática I
 - Análisis Matemático II
 
 # Para cursar próximo cuatrimestre
