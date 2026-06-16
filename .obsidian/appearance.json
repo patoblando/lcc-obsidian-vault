@@ -3,10 +3,8 @@
   "theme": "obsidian",
   "baseFontSize": 16,
   "enabledCssSnippets": [
-    "image_align",
     "adaptive_images",
     "custom_caption",
-    "image_zoom2",
-    "line-lenght"
+    "image_zoom2"
   ]
 }
