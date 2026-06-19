@@ -1,4 +1,4 @@
-# TODO's de mi linux 
+#git clone https://github.com/sejjy/mechabar.git ~/.config/waybar TODO's de mi linux 
 
 - [ ] Configurar NeoVim
     - [ ] Estilizarlo para matchear la estética global
