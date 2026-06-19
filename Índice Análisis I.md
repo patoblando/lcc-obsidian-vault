@@ -1,3 +1,0 @@
-
-[[derivada|Derivada]]
-[[polinomio|Polinomio]]

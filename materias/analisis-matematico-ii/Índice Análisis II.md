@@ -79,3 +79,5 @@ TODO: seguir aca
 ## Polinomios de Taylor
 1. [[Coincidencia en a=0 hasta la n derivada]]
 2. [[Polinomio de Taylor de orden n al rededor de un punto]]
+## Propiedades
+1. [[Algebra de  Taylor y propiedades del orden]]
