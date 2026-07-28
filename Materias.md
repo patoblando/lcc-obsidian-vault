@@ -17,10 +17,10 @@
 - Análisis Matemático II
 
 # Para cursar próximo cuatrimestre
-- Lógica
-- Métodos Numéricos
-- Probabilidad y Estadística (averiguar si hay recursado)
-- Comunicaciones: Es del segundo cuatrimestre y estaría habilitado a rendirla (!!!)
+- ==Lógica==
+- ~~Métodos Numéricos~~
+- ~~Probabilidad y Estadística (averiguar si hay recursado)~~
+- ==Comunicaciones==: Es del segundo cuatrimestre y estaría habilitado a rendirla (!!!)
 
 # Otras materias que puedo cursar 
 - Estructuras de Datos y Algoritmos II (del primer cuatrimestre, probablemente no tenga recursado) 
