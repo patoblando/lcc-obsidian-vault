@@ -8,5 +8,7 @@
   "readableLineLength": true,
   "strictLineBreaks": false,
   "foldIndent": true,
-  "rightToLeft": false
+  "rightToLeft": false,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "/"
 }
