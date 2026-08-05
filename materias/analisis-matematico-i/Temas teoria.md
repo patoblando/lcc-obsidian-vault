@@ -10,7 +10,7 @@ Analisis de los temas de teoría más tomados y sus referencias. Texto generado 
 1.  **[[Teorema de Rolle]]:** La idea general es que dada una función continua en un intervalo cerrado y derivable en el mismo intervalo abierto, tal que los extremos son iguales, entonces existe un punto en el intervalo con derivada igual a 0. O sea si los extremos de tu intervalo son iguales y la función tiene una razón de cambio predecible, si o si tiene que cambiar de signo la razón de cambio. La demostración se basa en el Teorema de Weierstrass y el Teorema de Fermat.
     *   **Referencia:** `Unidad 3 - Teoremas de Valor Medio`, **p. 25** (Teorema 9 y su demostración).
 
-2.  **[[Teorema de Lagrange]] (Teorema del Valor Medio):** 
+2.  **[[materias/analisis-matematico-i/Teorema de Lagrange]] (Teorema del Valor Medio):** 
 	 La idea de este es igual a la del teorema de lagrange pero sin que sean iguales los extremos, hay un punto en el intervalo cuya derivada da con la misma pendiente que la de la recta que une a las imágenes de los extremos. **Se demuestra utilizando una función auxiliar a la que se le aplica el Teorema de Rolle**.
     *   **Referencia:** `Unidad 3 - Teoremas de Valor Medio`, **pp. 26-27** (Teorema 10 y su demostración).
 
