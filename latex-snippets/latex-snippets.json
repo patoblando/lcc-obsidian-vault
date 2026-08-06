@@ -60,7 +60,7 @@
 
     {trigger: /([^\\])(exp|log|ln)/, replacement: "[[0]]\\[[1]]", options: "rmA"},
     {trigger: "conj", replacement: "^{*}", options: "mA"},
-    {trigger: "Re", replacement: "\\mathrm{Re}", options: "mA"},
+    // {trigger: "Re", replacement: "\\mathrm{Re}", options: "mA"},
 	{trigger: "Im", replacement: "\\mathrm{Im}", options: "mA"},
     {trigger: "bf", replacement: "\\mathbf{$0}", options: "mA"},
 	{trigger: "rm", replacement: "\\mathrm{$0}$1", options: "mA"},
