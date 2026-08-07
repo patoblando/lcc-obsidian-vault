@@ -1,3 +1,7 @@
+---
+noteId: 1786047954921
+---
+
 Defina asíntota vertical.
 
 ---

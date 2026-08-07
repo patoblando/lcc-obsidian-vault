@@ -1,3 +1,7 @@
+---
+noteId: 1786142586947
+---
+
 Defina asíntota oblicua.
 
 ---

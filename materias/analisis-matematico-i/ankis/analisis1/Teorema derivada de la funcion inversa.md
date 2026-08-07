@@ -1,3 +1,7 @@
+---
+noteId: 1786047955066
+---
+
 Enuncie el teorema de la derivada de la función inversa. ¿Cómo queda el limite de el cociente incremental (cuando $h \to 0$) de $f^{-1}$?
 
 ---

@@ -1,3 +1,7 @@
+---
+noteId: 1786047954566
+---
+
 Defina asíntota horizontal.
 
 ---
