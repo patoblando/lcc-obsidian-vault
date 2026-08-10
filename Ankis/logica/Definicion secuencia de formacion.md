@@ -1,1 +1,4 @@
 Defina secuencia de formación.
+
+---
+
