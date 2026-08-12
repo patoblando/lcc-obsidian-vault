@@ -141,8 +141,8 @@
     {trigger: "=>", replacement: "\\implies", options: "mA"},
 	{trigger: "=<", replacement: "\\impliedby", options: "mA"},
 
-	{trigger: "and", replacement: "\\cap", options: "mA"},
-	{trigger: "orr", replacement: "\\cup", options: "mA"},
+	{trigger: "and", replacement: "\\land", options: "mA"},
+	{trigger: "orr", replacement: "\\lor", options: "mA"},
 	{trigger: "inn", replacement: "\\in", options: "mA"},
 	{trigger: "notin", replacement: "\\not\\in", options: "mA"},
     {trigger: "\\\\\\", replacement: "\\setminus", options: "mA"},
