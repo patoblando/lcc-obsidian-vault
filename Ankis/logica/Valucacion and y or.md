@@ -11,7 +11,6 @@ $$
 
 $$
 \begin{array}{ll}
-\left[\!\left[ \perp \right]\!\right]_{v} & = F \\
 \left[\!\left[ p_{i} \right]\!\right]_{v} & = v(p_{i}) \\
 
 \left[ \! \left[ \phi\to \psi \right] \! \right]_{v}  & =T \text{ si y sólo si } \left[ \! \left[ \phi \right] \! \right]_{v} \leq \left[ \! \left[ \psi \right] \! \right]_{v}   \\
