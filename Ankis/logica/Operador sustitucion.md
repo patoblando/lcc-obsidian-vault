@@ -1,0 +1,1 @@
+¿Cómo se define $\phi[\psi/p_{i}]$ 
