@@ -205,7 +205,11 @@
 	{trigger: "iint", replacement: "\\iint", options: "mA"},
     {trigger: "iiint", replacement: "\\iiint", options: "mA"},
     {trigger: "oinf", replacement: "\\int_{0}^{\\infty} $0 \\, d${1:x} $2", options: "mA"},
-	{trigger: "infi", replacement: "\\int_{-\\infty}^{\\infty} $0 \\, d${1:x} $2", options: "mA"},
+	{trigger: "iinfi", replacement: "\\int_{-\\infty}^{\\infty} $0 \\, d${1:x} $2", options: "mA"},
+
+	// Infimum and supremum
+	{trigger: "inf{", replacement: "\inf \\{$0\\}$1", options: "mA"},
+	{trigger: "sup{", replacement: "\sup \\{$0\\}$1", options: "mA"},
 
 
     // Trigonometry
