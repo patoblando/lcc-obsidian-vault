@@ -1,11 +1,11 @@
 ![[Plan LCC.jpg|637]]
 
 # Materias regularizadas pero no aprobadas:
-- Análisis matemático I
 - Álgebra Lineal 
 - Complementos I
 
 # Materias aprobadas:
+- Análisis matemático I
 - Álgebra y Geometría Analítica I
 - Álgebra y Geometría Analítica II
 - Programación I
