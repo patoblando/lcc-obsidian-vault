@@ -1,3 +1,7 @@
+---
+noteId: 1786642963413
+---
+
 Defina secuencia de formación.
 
 ---

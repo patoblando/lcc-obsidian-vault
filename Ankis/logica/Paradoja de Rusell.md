@@ -1,3 +1,7 @@
+---
+noteId: 1786642963627
+---
+
 ¿Cual es la paradoja de Rusell?
 
 ---

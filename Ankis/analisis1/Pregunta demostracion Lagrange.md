@@ -1,5 +1,5 @@
 ---
-noteId: 1786643386788
+noteId: 1785973759540
 ---
 
 ¿Qué función auxiliar se utiliza para demostrar el teorema de Lagrange? ¿Qué otro teorema se usa en la demostración?

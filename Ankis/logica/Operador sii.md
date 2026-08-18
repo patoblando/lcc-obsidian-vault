@@ -1,3 +1,7 @@
+---
+noteId: 1786642963558
+---
+
 ¿Cómo se define el operador $\leftrightarrow$?
 
 ---

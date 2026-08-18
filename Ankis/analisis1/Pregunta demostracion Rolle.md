@@ -1,5 +1,5 @@
 ---
-noteId: 1786643386839
+noteId: 1785973759610
 ---
 
 ¿De qué me sirve llegar a que seguro $f$ alcanza un extremo relativo del intervalo cerrado y acotado $[a,b]$ para demostrar el teorema de rolle?

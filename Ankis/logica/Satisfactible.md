@@ -1,3 +1,7 @@
+---
+noteId: 1786642963664
+---
+
 Defina satisfactible
 
 ---

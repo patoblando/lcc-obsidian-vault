@@ -1,3 +1,7 @@
+---
+noteId: 1786642963511
+---
+
 ¿Es [[Validez deductiva|valido deductivamente]] el siguiente razonamiento?
 > - Las naranjas son rojas o frutas
 > - Las naranjas no son frutas

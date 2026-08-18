@@ -153,6 +153,7 @@
 	{trigger: "e\\xi sts", replacement: "\\exists", options: "mA", priority: 1},
 
 	{trigger: "LL", replacement: "\\mathcal{L}", options: "mA"},
+	{trigger: "PP", replacement: "\\mathcal{P}", options: "mA"},
     {trigger: "MM", replacement: "\\mathcal{M}", options: "mA"},
 	{trigger: "HH", replacement: "\\mathcal{H}", options: "mA"},
 	{trigger: "CC", replacement: "\\mathbb{C}", options: "mA"},
@@ -293,6 +294,8 @@
 	{trigger: "lra", replacement: "\\left< $0 \\right> $1", options: "mA"},
 	//logic
 	{trigger: "val[", replacement: "\\left[ \\! \\left[ $0 \\right] \\! \\right]_{v} $1", options: "mA"},
+	{trigger: "|=", replacement: "\\models", options: "mA"},
+
 
     // Misc
 
