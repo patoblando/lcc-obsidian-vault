@@ -8,5 +8,5 @@ a = t_{0}<t_{1}<t_{2}<\dots <t{n-1}<t_{n}=b.
 $$
 Se definen $m_{k}$ y $M_{k}$, para $k=1,2,\dots,n$ de una función $f$ acotada en $[a,b]$ y por lo tanto en cada $[t_{k-1},t_{k}]$ como los valores
 $$
-m_{k} = \
+m_{k} = 
 $$
