@@ -1,0 +1,11 @@
+Demuestre que, sea $f$ fun acotada en $[a,b]$ entonces
+$$
+\underline{\int}_{a}^{b} f(x) \, \leq \overline{\int}_{a}^{b} f(x) \, .
+$$
+
+---
+
+Para toda partición $P$ y $Q$ de $[a,b]$ vale, por [[lema desigualdad particiones]] que $L(f,P) \leq U(f,Q). Entonces, tomando ínfimo sobre $Q$
+$$
+L(f,P) \leq \inf_{Q} 
+$$
