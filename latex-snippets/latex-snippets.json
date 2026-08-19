@@ -213,6 +213,8 @@
 	// Infimum and supremum
 	{trigger: "inf{", replacement: "\\inf \\{$0\\}$1", options: "mA"},
 	{trigger: "sup{", replacement: "\\sup \\{$0\\}$1", options: "mA"},
+	{trigger: "sup_", replacement: "\\sup_{$0}$1", options: "mA"},
+	{trigger: "inf_", replacement: "\\inf_{$0}$1", options: "mA"},
 
 
     // Trigonometry
