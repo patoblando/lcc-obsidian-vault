@@ -8,4 +8,4 @@ $$
 \quad \text{ e } \quad
 \overline{\int}_{a}^{b} f(x) \, = \inf \{U(f,P) : P \in \mathscr{P}\}
 $$
-Donde $\mathscr{P}[a,b]$ es el conjunto de todas las particiones del intervalo $[a,b]$
+Donde $\mathscr{P}[a,b]$ es el conjunto de todas las particiones del intervalo $[a,b]$.
