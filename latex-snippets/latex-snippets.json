@@ -161,6 +161,7 @@
 	{trigger: "ZZ", replacement: "\\mathbb{Z}", options: "mA"},
 	{trigger: "NN", replacement: "\\mathbb{N}", options: "mA"},
     {trigger: "KK", replacement: "\\mathbb{K}", options: "mA"},    
+	{trigger: "@P", replacement: "\\mathscr{P}", options: "mA"},// P cursiva
     {trigger: "mathbb", replacement: "\\mathbb{$0}", options: "mA"},
 
     // Handle spaces and backslashes
@@ -206,6 +207,8 @@
     {trigger: "iiint", replacement: "\\iiint", options: "mA"},
     {trigger: "oinf", replacement: "\\int_{0}^{\\infty} $0 \\, d${1:x} $2", options: "mA"},
 	{trigger: "iinfi", replacement: "\\int_{-\\infty}^{\\infty} $0 \\, d${1:x} $2", options: "mA"},
+
+
 
 	// Infimum and supremum
 	{trigger: "inf{", replacement: "\\inf \\{$0\\}$1", options: "mA"},
