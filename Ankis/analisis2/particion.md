@@ -1,3 +1,7 @@
+---
+noteId: 1787237403237
+---
+
 Defina partición.
 
 ---
