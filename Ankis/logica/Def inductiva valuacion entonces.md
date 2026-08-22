@@ -1,5 +1,5 @@
 ---
-noteId: 1786642963364
+noteId: 1787426862798
 ---
 
 De la definición de $\left[ \! \left[ \phi\to \psi \right] \! \right]_{v}$.

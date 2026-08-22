@@ -1,5 +1,5 @@
 ---
-noteId: 1786642963262
+noteId: 1787426862748
 ---
 
 Defina contradicción

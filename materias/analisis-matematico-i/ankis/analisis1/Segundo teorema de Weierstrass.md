@@ -1,5 +1,5 @@
 ---
-noteId: 1786643386987
+noteId: 1785975222590
 ---
 
 Enuncie el segundo teorema de Weierstrass.

@@ -1,5 +1,5 @@
 ---
-noteId: 1786643386738
+noteId: 1786047955024
 ---
 
 Dado el límite del cociente incremental de la inversa de una función, $f^{-1}$ ¿Qué igualdad es crucial para resolverlo?

@@ -1,5 +1,5 @@
 ---
-noteId: 1786643386889
+noteId: 1785975222541
 ---
 
 De la función auxiliar que se utiliza para demostrar el [[Segundo teorema de Weierstrass]]. 

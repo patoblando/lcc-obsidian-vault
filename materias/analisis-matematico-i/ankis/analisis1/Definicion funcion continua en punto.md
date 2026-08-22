@@ -1,5 +1,5 @@
 ---
-noteId: 1786643386490
+noteId: 1785973759586
 ---
 
 Definir función continua en un punto.

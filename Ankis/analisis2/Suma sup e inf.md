@@ -1,5 +1,5 @@
 ---
-noteId: 1787237403288
+noteId: 1787426862631
 ---
 
 Defina suma superior y suma inferior de una función $f : [a,b] \to \mathbb{R}$ acotada y $P$ una partición de $[a,b]$. 

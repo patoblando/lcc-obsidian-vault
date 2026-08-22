@@ -1,5 +1,5 @@
 ---
-noteId: 1786644496136
+noteId: 1787426862732
 ---
 
 Defina la relación *consecuencia semántica* $\models$
