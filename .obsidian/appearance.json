@@ -1,0 +1,10 @@
+{
+  "cssTheme": "Minimal",
+  "theme": "obsidian",
+  "baseFontSize": 16,
+  "enabledCssSnippets": [
+    "adaptive_images",
+    "custom_caption",
+    "image_zoom2"
+  ]
+}
