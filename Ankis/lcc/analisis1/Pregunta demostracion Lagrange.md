@@ -10,4 +10,4 @@ La función auxiliar $F$, definida en el intervalo $[a,b]$ de la siguiente maner
 $$
 F(x) = f(x)-\frac{f(b) - f(a)}{b-a}(x-a).
 $$
-El [[Teorema de Rolle]].
+El [[Ankis/lcc/analisis1/Teorema de Rolle]].

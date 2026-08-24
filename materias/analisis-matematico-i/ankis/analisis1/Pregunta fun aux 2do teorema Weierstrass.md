@@ -2,7 +2,7 @@
 noteId: 1785975222541
 ---
 
-De la función auxiliar que se utiliza para demostrar el [[Segundo teorema de Weierstrass]]. 
+De la función auxiliar que se utiliza para demostrar el [[materias/analisis-matematico-i/ankis/analisis1/Segundo teorema de Weierstrass]]. 
 
 ---
 
@@ -10,4 +10,4 @@ Suponiendo que $f(x) < M \forall x \in [a,b]$, queda bien definida, en el interv
 $$
 g(x) = \frac{1}{M - f(x)}
 $$
-que además es continua en $[a,b]$ (por ser recíproca de una función continua que no se anula en $[a,b]$) y, por el [[primer teorema de weierstrass]], ***está acotada*** en $[a,b]$.
+que además es continua en $[a,b]$ (por ser recíproca de una función continua que no se anula en $[a,b]$) y, por el [[materias/analisis-matematico-i/ankis/analisis1/Primer teorema de Weierstrass]], ***está acotada*** en $[a,b]$.

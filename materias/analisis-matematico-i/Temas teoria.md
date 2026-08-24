@@ -7,7 +7,7 @@ Analisis de los temas de teoría más tomados y sus referencias. Texto generado 
 
 ## Demostraciones más frecuentes:**
 
-1.  **[[Teorema de Rolle]]:** La idea general es que dada una función continua en un intervalo cerrado y derivable en el mismo intervalo abierto, tal que los extremos son iguales, entonces existe un punto en el intervalo con derivada igual a 0. O sea si los extremos de tu intervalo son iguales y la función tiene una razón de cambio predecible, si o si tiene que cambiar de signo la razón de cambio. La demostración se basa en el Teorema de Weierstrass y el Teorema de Fermat.
+1.  **[[materias/analisis-matematico-i/ankis/analisis1/Teorema de Rolle]]:** La idea general es que dada una función continua en un intervalo cerrado y derivable en el mismo intervalo abierto, tal que los extremos son iguales, entonces existe un punto en el intervalo con derivada igual a 0. O sea si los extremos de tu intervalo son iguales y la función tiene una razón de cambio predecible, si o si tiene que cambiar de signo la razón de cambio. La demostración se basa en el Teorema de Weierstrass y el Teorema de Fermat.
     *   **Referencia:** `Unidad 3 - Teoremas de Valor Medio`, **p. 25** (Teorema 9 y su demostración).
 
 2.  **[[materias/analisis-matematico-i/Teorema de Lagrange]] (Teorema del Valor Medio):** 
