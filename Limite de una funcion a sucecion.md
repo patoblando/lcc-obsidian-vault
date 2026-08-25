@@ -1,0 +1,1 @@
+¿Verdadero o falso? Sea $f(x)$ una función tal que está definida $\forall x \geq \mathbb{N} \in \mathbb{R}, x \in \mathbb{R}$ y $\{ f_{n} \}$ es tal que $f_{n} = f(n)$ para $n \geq N, n \in \mathbb{N}$ entonces $$\lim_{ x \to \infty }f(x) = L \implies \lim_{ n \to \infty }f_{n} = L$$

@@ -5,6 +5,7 @@
   "enabledCssSnippets": [
     "adaptive_images",
     "custom_caption",
-    "image_zoom2"
+    "image_zoom2",
+    "hide-noteid-yanki"
   ]
 }

@@ -1,5 +1,5 @@
 ---
-noteId: 1786642963511
+noteId: 1787426862883
 ---
 
 ¿Es [[Validez deductiva|valido deductivamente]] el siguiente razonamiento?

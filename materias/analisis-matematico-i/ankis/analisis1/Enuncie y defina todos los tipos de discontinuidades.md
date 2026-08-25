@@ -1,5 +1,5 @@
 ---
-noteId: 1786643386690
+noteId: 1785973759515
 ---
 
 Enuncie y defina todos los tipos de discontinuidades.

@@ -1,5 +1,5 @@
 ---
-noteId: 1786642963463
+noteId: 1787426862850
 ---
 
 Para cualquier $v$ valuación: ¿$\left[ \! \left[ \perp \right] \! \right]_{v}$ = ? 

@@ -1,5 +1,5 @@
 ---
-noteId: 1787237403147
+noteId: 1787426862549
 ---
 
 Si $f:[a,b] \to \mathbb{R}$ función acotada, $P$ y $P'$ son particiones de $P \subseteq P'$, entonces:

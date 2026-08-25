@@ -1,5 +1,5 @@
 ---
-noteId: 1786642963627
+noteId: 1787426862948
 ---
 
 ¿Cual es la paradoja de Rusell?

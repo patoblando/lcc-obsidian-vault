@@ -1,5 +1,5 @@
 ---
-noteId: 1786643386588
+noteId: 1786043624662
 ---
 
 Defina la función auxiliar que se utiliza en la demostración del teorema de Weierstrass para demostrar que $f$ alcanza su ***mínimo absoluto*** en $[a,b]$.

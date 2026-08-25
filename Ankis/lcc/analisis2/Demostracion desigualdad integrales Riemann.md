@@ -1,8 +1,8 @@
 ---
-noteId: 1787237597022
+noteId: 1787426862531
 ---
 
-Demuestre que, sea $f$ fun acotada en $[a,b]$ entonces
+Demuestre que, sea $s$ fun acotada en $[a,b]$ entonces
 $$
 \underline{\int}_{a}^{b} f(x) \, \leq \overline{\int}_{a}^{b} f(x) \, .
 $$

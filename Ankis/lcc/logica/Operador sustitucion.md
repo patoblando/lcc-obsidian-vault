@@ -1,5 +1,5 @@
 ---
-noteId: 1787237403340
+noteId: 1787426862931
 ---
 
 ¿Cómo se define $\phi[\psi/p_{i}]$ 

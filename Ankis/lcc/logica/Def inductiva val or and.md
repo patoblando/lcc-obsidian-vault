@@ -1,5 +1,5 @@
 ---
-noteId: 1786642963311
+noteId: 1787426862781
 ---
 
 Defina, como en la definición recursiva, $\left[\!\left[ \phi \land \psi \right]\!\right]_{v}$ y $\left[\!\left[ \phi \lor \psi \right]\!\right]_{v}$

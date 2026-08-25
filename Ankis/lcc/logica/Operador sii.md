@@ -1,5 +1,5 @@
 ---
-noteId: 1786642963558
+noteId: 1787426862898
 ---
 
 ¿Cómo se define el operador $\leftrightarrow$?
