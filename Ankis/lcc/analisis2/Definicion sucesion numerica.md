@@ -7,7 +7,10 @@ Una _sucesión numérica_ es una función $f$ cuyo dominio es un conjunto finito
 Ejemplo:
 $$
 \begin{align}
-f: &  \mathbb{N} \to \mathbb{R} \\
- & n \mapsto 
+f:\ &  \mathbb{N} \to \mathbb{R} \\
+ & k \mapsto \left( -\frac{1}{2} \right)^k
 \end{align}
+$$
+$$
+\{ f_{k} \} = \{  -\frac{1}{2}, \frac{1}{4}, -\frac{1}{8},\dots \}
 $$
