@@ -1,3 +1,7 @@
+---
+noteId: 1787754681675
+---
+
 Defina límite de una sucesión real o compleja cuando $k$ tiende al infinito.
 
 ---

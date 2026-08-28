@@ -1,3 +1,7 @@
+---
+noteId: 1787754685400
+---
+
 ¿Cuando decimos que una suceción $f_{n}$ *converge*?
 
 ---

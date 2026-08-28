@@ -1,3 +1,7 @@
+---
+noteId: 1787754686200
+---
+
 Enuncie el teorema de sandwich o intercalación.
 
 ---

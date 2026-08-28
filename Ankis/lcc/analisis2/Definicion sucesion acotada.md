@@ -1,3 +1,7 @@
+---
+noteId: 1787754681725
+---
+
 Defina sucesión acotada.
 
 ---
