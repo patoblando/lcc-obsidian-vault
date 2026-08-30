@@ -1,0 +1,1 @@
+Una sucesión convergente, _está acotada_.
