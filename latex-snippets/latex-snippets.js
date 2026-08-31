@@ -1,3 +1,4 @@
+export default [
     // Math mode
 	{trigger: "mk", replacement: "$$0$", options: "tA"},
 	{trigger: "dm", replacement: "$$\n$0\n$$", options: "tAw"},
@@ -293,7 +294,7 @@
 	//logic
 	{trigger: "val[", replacement: "\\left[ \\! \\left[ $0 \\right] \\! \\right]_{v} $1", options: "mA"},
 	{trigger: "rep[", replacement: "$0[$1/$2]", options: "mA"},
-	{trigger: "|=", replacement: "\\models", options: "mA"}
+	{trigger: "|=", replacement: "\\models", options: "mA"},
 
     // Misc
 
