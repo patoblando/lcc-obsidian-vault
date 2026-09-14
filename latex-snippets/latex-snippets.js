@@ -297,6 +297,7 @@ export default [
 	{trigger: "rep[", replacement: "$0[$1/$2]", options: "mA"},
 	{trigger: "|=", replacement: "\\models", options: "mA"},
 	{trigger: "|-", replacement: "\\vdash", options: "mA"},
+	{trigger: "bot", replacement: "\\perp", options: "mA"},
 
     // Misc
 
