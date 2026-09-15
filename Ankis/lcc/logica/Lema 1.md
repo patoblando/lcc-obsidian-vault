@@ -1,3 +1,7 @@
+---
+noteId: 1789494719427
+---
+
 Las siguientes tres proposiciones son equivalentes:
 1. $\Gamma$ consistente.
 2. ?

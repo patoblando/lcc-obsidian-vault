@@ -1,3 +1,7 @@
+---
+noteId: 1789494719200
+---
+
 Sea $\left\{ a_{k} \right\}$ tal que $a_{k} \to\ell$, demuestre que $\left\{ a_{k} \right\}$ está acotada.
 
 ---
