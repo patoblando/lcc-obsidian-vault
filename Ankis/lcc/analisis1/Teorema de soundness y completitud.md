@@ -1,3 +1,7 @@
+---
+noteId: 1789495072221
+---
+
 ¿Que afirma el teorema de *correctitud* o *soundness*? ¿Y el de completitud?
 
 ---

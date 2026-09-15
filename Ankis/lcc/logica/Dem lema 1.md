@@ -1,3 +1,7 @@
+---
+noteId: 1789495072326
+---
+
 ¿Como es el caminito de las tres fórmulas, $(1), (2),(3)$,  que seguimos en clase para demostrar el lema 1?
 
 Las siguientes tres proposiciones son equivalentes:

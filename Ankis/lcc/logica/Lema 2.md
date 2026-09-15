@@ -1,3 +1,7 @@
+---
+noteId: 1789495072428
+---
+
 Sea $\Gamma \in Prop$. Si existe una valuación $v$ tal que $\left[ \! \left[ \Gamma \right] \! \right]_{v} = T$, entonces $\Gamma$ es ~~consistente~~. 
 ¿Qué usamos para demostrar este lema?
 
