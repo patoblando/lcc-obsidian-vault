@@ -1,1 +1,1 @@
-**Lema 7:** Si $\Gamma$ es consistente, existe una valuación $v$ tal que $\left[ \! \left[ \Gamma \right] \! \right]_{v} = True$.
+**Lema 7:** Si $\Gamma$ es consistente, existe una valuación $v$ tal que ~~$\left[ \! \left[ \Gamma \right] \! \right]_{v} = True$.~~
