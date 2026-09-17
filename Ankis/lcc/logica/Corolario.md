@@ -3,4 +3,4 @@
 
 ---
 
-Si no lo deriva entonces $\Gamma \cup \left\{ \neg \phi \right\}$ es consistente, ahí existe una valuación que hace que los dos sean verdaderos y por def de valuación $\left[ \! \left[ \neg \phi \right] \! \right]_{v}=True  \left[ \! \left[ \phi \right] \! \right]_{v}=False$
+Si no lo deriva entonces $\Gamma \cup \left\{ \neg \phi \right\}$ es consistente, ahí existe una valuación que hace que los dos sean verdaderos y por def de valuación $\left[ \! \left[ \neg \phi \right] \! \right]_{v}=True \Leftrightarrow \left[ \! \left[ \phi \right] \! \right]_{v}=False$.

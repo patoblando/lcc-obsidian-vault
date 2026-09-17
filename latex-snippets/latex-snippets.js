@@ -140,6 +140,7 @@ export default [
 	{trigger: "!>", replacement: "\\mapsto", options: "mA"},
     {trigger: "=>", replacement: "\\implies", options: "mA"},
 	{trigger: "=<", replacement: "\\impliedby", options: "mA"},
+	{trigger: "sii", replacement: "\\Leftrightarrow ", options: "mA"},
 
 	{trigger: "and", replacement: "\\land", options: "mA"},
 	{trigger: "orr", replacement: "\\lor", options: "mA"},
