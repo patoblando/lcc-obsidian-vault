@@ -1,3 +1,7 @@
+---
+noteId: 1789609240240
+---
+
 **Lema 5:** Sea $\Gamma$ un conjunto maximalmente consistente y $\phi \in Prop$. Si $\Gamma \vdash \phi$, entonces ~~$\phi \in \Gamma$~~.  Es decir, $\Gamma$ es ~~cerrado bajo derivación.~~
 
 ¿Como se demuestra esta tesis?

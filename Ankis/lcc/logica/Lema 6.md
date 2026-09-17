@@ -1,3 +1,7 @@
+---
+noteId: 1789609240280
+---
+
 **Lema 6:** Si $\Gamma$ es un conjunto consistente maximal entonces:
 
 1. Para todo $\phi \in Prop$

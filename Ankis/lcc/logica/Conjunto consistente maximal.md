@@ -1,3 +1,7 @@
+---
+noteId: 1789609240063
+---
+
 Defina conjunto consistente maximal. Y de un ejemplo.
 
 ---

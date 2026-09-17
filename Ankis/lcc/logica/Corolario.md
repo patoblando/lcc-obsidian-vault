@@ -1,3 +1,7 @@
+---
+noteId: 1789609240129
+---
+
 **Corolario:** Si $\Gamma \not\vdash \phi$ entonces existe una valuación $v$ tal que $\left[ \! \left[ \Gamma \right] \! \right]_{v} = True$ y ~~$\left[ \! \left[ \phi \right] \! \right]_{v} = False$.~~
 ¿Cómo demostramos esto?
 

@@ -1,3 +1,7 @@
+---
+noteId: 1789609240192
+---
+
 Sea el lema 3:
 
 Sea $\Gamma \subseteq Prop, \phi \in Prop$.
