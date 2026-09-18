@@ -1,7 +1,6 @@
 ---
 noteId: 1787426862498
 ---
-
 Defina **integral inferior** e **integral superior**.
 
 ---
