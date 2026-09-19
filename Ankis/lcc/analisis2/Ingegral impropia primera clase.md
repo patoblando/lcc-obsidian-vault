@@ -11,3 +11,4 @@ I(b)  & \mapsto \int_{a}^{b} f  .
 $$
 Si existe el límite $\lim_{ b \to \infty }I(b)$ se dice que la integral impropia es convergente y se lo indica con el símbolo $\int_{a}^{\infty} f$. SI no existe el limite se dice que la integral impropia es divergente.
 
+  
