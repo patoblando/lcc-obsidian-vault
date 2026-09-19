@@ -14,11 +14,13 @@ Sea $M$ una cota de $\left| f \right|$, que existe dado que $f$ es integrable, y
 $$
 \int_{a}^{x} f - \int_{a}^{x_{0}} f = \int_{x_{0}}^{x} f
 $$
-Luego vale que
+y, por Unidad 1 ejercicio 7
 $$
-\left| \int_{x_{0}}^{x} f \right| \leq M\left| x -x_{0} \right|
+\left| \int_{x_{0}}^{x} f \ \right| \leq M\left| x -x_{0} \right|
 $$
 de donde, sea $\delta < \frac{\varepsilon}{M}$ concluimos que, sea  $x$ tal que $\left| x-x_{0} \right|< \delta$
 $$
 \implies \left| \int_{x_{0}}^{x} f\   \right| \leq M \left| x-x_{0} \right|< M \cdot \frac{\varepsilon}{M} = \varepsilon.
+\tag*{$\square$}
 $$
+
