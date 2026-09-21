@@ -1,6 +1,5 @@
 ![[Plan LCC.jpg|637]]
 
-| Materia 
 
 
 
