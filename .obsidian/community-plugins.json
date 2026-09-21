@@ -1,9 +1,12 @@
 [
   "lazy-plugins",
   "vim-yank-highlight",
-  "obsidian-vimrc-support",
-  "obsidian-hider",
   "obsidian-latex-suite",
   "obsidian-git",
-  "yanki"
+  "yanki",
+  "homepage",
+  "obsidian-hider",
+  "table-editor-obsidian",
+  "dataview",
+  "obsidian-vimrc-support"
 ]

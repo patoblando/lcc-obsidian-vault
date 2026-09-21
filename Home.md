@@ -1,5 +1,10 @@
 ![[Plan LCC.jpg|637]]
 
+| Materia 
+
+
+
+
 # Materias regularizadas pero no aprobadas:
 - Álgebra Lineal 
 - Complementos I
