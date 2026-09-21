@@ -17,12 +17,8 @@
 | Complementos 1 | Aprobada        | Sin rendir     | *Por rendir*     |
 |                |                 |                |                  |
 |                |                 |                |                  |
-# Materias regularizadas pero no aprobadas:
-- Álgebra Lineal 
-- Complementos I
-
 # Para cursar próximo cuatrimestre
-
+- Todas las del 2do cuatrimestre de 2do
 
 # Otras materias que puedo cursar 
 - Estructuras de Datos y Algoritmos II (del primer cuatrimestre, probablemente no tenga recursado) 
