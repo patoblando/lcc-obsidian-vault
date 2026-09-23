@@ -15,12 +15,12 @@
 | AyGA 2         | Aprobada        | Aprobado       | Aprobada         |
 | Prog 1         | Aprobada        | Aprobado       | Aprobada         |
 | Prog 2         | Aprobada        | Aprobado       | Aprobada         |
-| Lienal         | Aprobada        | Sin rendir     | *Por rendir*     |
+| Lineal         | Aprobada        | Sin rendir     | *Por rendir*     |
 | Estructuras 1  | Aprobada        | Aprobado       | Aprobada         |
 | LFyC           | Aprobada        | Aprobado       | Aprobada         |
 | Metodos        | Sin aprobar     | Sin rendir     | ***Por cursar*** |
 | Complementos 1 | Aprobada        | Sin rendir     | *Por rendir*     |
-|                |                 |                |                  |
+| **Lógica**         | **Sin aprobar**     | **Sin rendir**     | **Cursando**         |
 |                |                 |                |                  |
 # Para cursar próximo cuatrimestre
 - Todas las del 2do cuatrimestre de 2do
