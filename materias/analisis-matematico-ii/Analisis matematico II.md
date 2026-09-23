@@ -1,0 +1,3 @@
+- [[apunte_general_2026_v1.pdf|Apunte]]
+- [[materias/analisis-matematico-ii/spivak-calculo.pdf|Spivak]]
+- [[Ankis analisis 2]]
