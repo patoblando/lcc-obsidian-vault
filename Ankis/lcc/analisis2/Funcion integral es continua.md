@@ -7,9 +7,12 @@ Si $f:[a,b]\to \mathbb{R}$ es integrable, la función integral $F$ de $f$ es ~~c
 ---
 La propiedad que usamos es que como $f$ es integrable, está acotada.
 
+La desigualdad del ejercicio es
+$$
+\int_{x_{0}}^{x} f \leq M\left| x-x_{0} \right|
+$$
 
-
-Usamos la definición de continuidad para un punto _cualquiera_ de $[a,b]$:
+Y la definición es la de continuidad para un punto de la función :
 
 $x_{0} \in [a,b]$ para todo $\varepsilon>0$ existe un $\delta >0$ tal que
 $$
