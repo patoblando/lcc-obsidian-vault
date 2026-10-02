@@ -2,11 +2,13 @@
 noteId: 1790979517016
 ---
 
-Si $f:[a,b]\to \mathbb{R}$ es integrable, la función integral $F$ de $f$ es ~~continua~~  en $[a,b]$. Más o menos ¿Cómo se demuestra esto?
+Si $f:[a,b]\to \mathbb{R}$ es integrable, la función integral $F$ de $f$ es ~~continua~~  en $[a,b]$.  ¿Que propiedad consecuencia de que $f$ sea integrable, desigualdad de un ejercicio y definición básica se usan para demostrar esto?
 
 ---
 
-Para demostrar que es continua, tendría que ver que, para cualquier punto $x_{0} \in [a,b]$ para todo $\varepsilon>0$ existe un $\delta >0$ tal que, sea $x$ tal que
+Usamos la definición de continuidad para un punto _cualquiera_ de $[a,b]$:
+
+$x_{0} \in [a,b]$ para todo $\varepsilon>0$ existe un $\delta >0$ tal que
 $$
 \left| x-x_{0} \right|<\delta \implies \left| F(x)-F(x_{0}) \right| < \varepsilon
 $$
@@ -14,10 +16,12 @@ o sea, que
 $$
 \left| x-x_{0} \right| < \delta\implies \left| \int_{a}^{x} f - \int_{a}^{x_{0}} f \right| < \varepsilon
 $$
-Sea $M$ una cota de $\left| f \right|$, que existe dado que $f$ es integrable, y luego acotada. Luego vemos que
+Después, por propiedades de las integrales tenemos que:
 $$
 \int_{a}^{x} f - \int_{a}^{x_{0}} f = \int_{x_{0}}^{x} f
 $$
+Sea $M$ una cota de $\left| f \right|$, que existe dado que $f$ es integrable, y luego acotada. Luego vemos que
+
 y, por Unidad 1 ejercicio 7
 $$
 \left| \int_{x_{0}}^{x} f \ \right| \leq M\left| x -x_{0} \right|
