@@ -1,3 +1,7 @@
+---
+noteId: 1790979517067
+---
+
 Sea $f:[a,\infty)\to \mathbb{R}$ una función real tal que para todo $b\geq a$ existe el número $I(b)=?$ . ¿Cómo defino la función $I$ para que sea la integral impropia  de primera especie de $f$?
 
 ---

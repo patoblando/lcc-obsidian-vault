@@ -1,3 +1,7 @@
+---
+noteId: 1790979517040
+---
+
 Sea $f:[a,b]\to \mathbb{R}$ integrable en $[a,b]$, defina $\int_{a}^{x} f(x) \, dx$.
 
 ---

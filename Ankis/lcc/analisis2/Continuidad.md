@@ -1,3 +1,7 @@
+---
+noteId: 1790979516990
+---
+
 Defina función continua usando $\varepsilon$ y $\delta$.
 
 ---
