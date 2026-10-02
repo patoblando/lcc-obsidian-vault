@@ -1,4 +1,4 @@
-De la condición suficiente y necesaria de integrabilidad. ¿Pregunta específica sobre la demostración?
+De la condición suficiente y necesaria de integrabilidad. Para la ida, ¿Cómo aparece $\varepsilon$? ¿Qué lema uso para elegir una partición?
 
 ---
 
@@ -8,5 +8,7 @@ U(f,P)-L(f,P) < \varepsilon.
 $$
 Es decir, puedo hacer esa diferencia tan pequeña como me plazca.
 
-$\implies)$ Como $\int_{a}^{b} f$ es al mismo tiempo el supremo y el ínfimo, si le resto cualquier cosa (por ejemplo $\frac{\varepsilon}{2}$) deben existir valores entre el ínfimo/supremo del conjunto y la resta. Después elegimos $P = P_{1}\cup P_{2}$ y llegamos a que.![[Pasted image 20261002195448.png]]
-
+$\implies)$ Como $\int_{a}^{b} f$ es al mismo tiempo el supremo y el ínfimo, si le resto cualquier cosa (por ejemplo $\frac{\varepsilon}{2}$) deben existir sumas superiores/inferiores entre el ínfimo/supremo del conjunto y la resta. O sea
+$$
+\int_{a}^{b} f \,  -L(f,P_{1}) < \frac{\varepsilon}{2} \ \text{y}\ 
+$$
