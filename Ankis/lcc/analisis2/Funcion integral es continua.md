@@ -5,6 +5,7 @@ noteId: 1790979517016
 Si $f:[a,b]\to \mathbb{R}$ es integrable, la función integral $F$ de $f$ es ~~continua~~  en $[a,b]$.  ¿Que propiedad consecuencia de que $f$ sea integrable, desigualdad de un ejercicio y definición básica se usan para demostrar esto?
 
 ---
+Primero, existe $M$ una cota de $f$ porque $f$ es integrable, y luego acotada.
 
 Usamos la definición de continuidad para un punto _cualquiera_ de $[a,b]$:
 
@@ -18,7 +19,9 @@ $$
 $$
 Después, por propiedades de las integrales tenemos que:
 $$
-\int_{a}^{x} f - \int_{a}^{x_{0}} f = \int_{x_{0}}^{x} f
+\int_{a}^{x} f - \int_{a}^{x_{0}} f =
+
+\int_{x_{0}}^{x} f
 $$
 Sea $M$ una cota de $\left| f \right|$, que existe dado que $f$ es integrable, y luego acotada. Luego vemos que
 
