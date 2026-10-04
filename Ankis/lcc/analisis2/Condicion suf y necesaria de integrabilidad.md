@@ -2,31 +2,23 @@
 noteId: 1791124855903
 ---
 
-De la condición suficiente y necesaria de integrabilidad. Para la ida, ¿Cómo aparece $\varepsilon$? ¿Qué lema uso para elegir una partición?
+De la condición suficiente y necesaria de integrabilidad. Para la ida, ¿Cómo aparece $\varepsilon$ en la ida y que lema uso? ¿Cómo se demuestra la vuelta?
 
 ---
 
-Unna función $f : [a,b] \to \mathbb{R}$ acotada, es integrable si y sólo si, dado $\varepsilon>0$, existe una partición $P$ ligada a $\varepsilon$, de $[a,b]$ para la cual
+Una función $f : [a,b] \to \mathbb{R}$ acotada, es integrable si y sólo si, dado $\varepsilon>0$, existe una partición $P$ ligada a $\varepsilon$, de $[a,b]$ para la cual
 $$
 U(f,P)-L(f,P) < \varepsilon.
 $$
 Es decir, puedo hacer esa diferencia tan pequeña como me plazca.
 
-$\implies)$ Como $\int_{a}^{b} f$ es el supremo de las sumas inferiores, si le resto cualquier cosa (por ejemplo $\frac{\varepsilon}{2}$) debe existir una suma inferior que sea mayor a la resta (por propiedad del supremo)
 
-O sea que existe $P_{1}$ tal que:
-
+$\implies)$  El $\varepsilon$ aparece por la definición de ínfimo y supremo, si le resto o sumo $\frac{\varepsilon}{2}$ a la integral, debe haber sumas superiores e inferiores entre el valor del area real y esta diferencia. Para unificarlas en una partición tomo la unión, que va a ser una mejor aproximación del area porque tiene más puntos, quedando la desigualdad
 $$
-\begin{align}
-\int_{a}^{b} f \, -\frac{\varepsilon}{2} < L(f,P_{1}) \\
-\int_{a}^{b} f \,  -L(f,P_{1})< \frac{\varepsilon}{2}
-\end{align}
+U(f,P)-L(f,P) < \varepsilon.
 $$
-De manera parecida, como $\int_{a}^{b} f$ es el ínfimo de las sumas superiores, si le sumo $\frac{\varepsilon}{2}$, debe existir una suma superior más pequeña que la suma. Es decir existe $P_{2}$ tal que:
+$\impliedby)$  Si para cualquier $\varepsilon$ existe $P$ partición tal que se da la diferencia, entonces, por definición de integral superior e integral inferior y de supremo e ínfimo
 $$
-\begin{align}
-U(f,P_{2}) < \int_{a}^{b} f \, + \frac{\varepsilon}{2}  \\
-U(f,P_{2}) - \int_{a}^{b} f \,  < \frac{\varepsilon}{2}
-\end{align}
+0\leq \overline{\int}_{a}^{b} f \, - \underline{\int}_{a}^{b} f \, \leq U(f,P)-L(f,P)< \varepsilon.
 $$
-(sin terminar)  
+Luego de la arbitrariedad de $\varepsilon$ las integrales sup e inf son iguales, resultando $f$ integrable.
