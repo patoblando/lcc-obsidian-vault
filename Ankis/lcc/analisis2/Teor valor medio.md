@@ -6,7 +6,7 @@ Enuncie el teorema del valor medio del cálculo integral. ¿Qué desigualdad de 
 
 ---
 
-Si $f$ es una función continua en $[a,b]$, entonces exitme $\xi \in [a,b]$ en donde $f$ alcanza su valor medio. Esto es
+Si $f$ es una función continua en $[a,b]$, entonces existe $\xi \in [a,b]$ en donde $f$ alcanza su valor medio. Esto es
 
 $$
 f(\xi) = \mu =\frac{1}{b-a}\int_{a}^{b} f \,  .
