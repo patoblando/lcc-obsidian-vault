@@ -25,4 +25,4 @@ U(f,P_{2}) < \int_{a}^{b} f \, + \frac{\varepsilon}{2}  \\
 U(f,P_{2}) - \int_{a}^{b} f \,  < \frac{\varepsilon}{2}
 \end{align}
 $$
-(sin terminar) 
+(sin terminar)  
