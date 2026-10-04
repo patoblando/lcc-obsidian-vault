@@ -1,8 +1,7 @@
 ---
 noteId: 1791124855928
 ---
-
-Enuncia el teorema del valor medio del cálculo integral.
+Defina el valor medio de $f$ sobre $[a,b]$.
 
 ---
 
