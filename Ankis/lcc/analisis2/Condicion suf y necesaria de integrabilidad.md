@@ -1,3 +1,7 @@
+---
+noteId: 1791124855903
+---
+
 De la condición suficiente y necesaria de integrabilidad. Para la ida, ¿Cómo aparece $\varepsilon$? ¿Qué lema uso para elegir una partición?
 
 ---
