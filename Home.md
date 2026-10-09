@@ -3,7 +3,7 @@
 # Materias cursando actualmente
 
 - [[Analisis matematico II]] - [[Ankis analisis 2]] - [[apunte_general_2026_v1.pdf| Apunte general]]
-- [[Logica]] - [[Ankis logica]]
+- [[Logica]] - [[Ankis logica]] - [[pred-sem-ho.pdf]] - [[P5_sem_pred.pdf]]
 
 # Tabla de materias
 
