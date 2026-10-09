@@ -1,5 +1,5 @@
 ---
-noteId: 1791124855928
+noteId: 1791587474823
 ---
 Defina el valor medio de $f$ sobre $[a,b]$.
 

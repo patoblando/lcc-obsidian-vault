@@ -1,5 +1,5 @@
 ---
-noteId: 1790979517117
+noteId: 1791587474947
 ---
 
 Verdadero o falso. Sea $\Gamma^{*}\subseteq Prop$ consistente. Existe un $\Gamma \subseteq \Gamma^{*}$ inconsistente. 

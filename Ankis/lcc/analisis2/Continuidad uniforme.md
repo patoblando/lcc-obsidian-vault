@@ -1,5 +1,5 @@
 ---
-noteId: 1790979516966
+noteId: 1791587474723
 ---
 
 Defina continuidad uniforme. ¿Qué diferencia hay con continuidad?

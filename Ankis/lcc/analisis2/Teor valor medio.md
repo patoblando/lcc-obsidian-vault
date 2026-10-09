@@ -1,5 +1,5 @@
 ---
-noteId: 1791127005427
+noteId: 1791587474797
 ---
 
 Enuncie el teorema del valor medio del cálculo integral. ¿Qué desigualdad de integrales usamos para demostrar esto? ¿Que dos teoremas de análisis 1 usamos luego?

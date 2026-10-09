@@ -1,5 +1,5 @@
 ---
-noteId: 1791124855903
+noteId: 1791587474699
 ---
 
 De la condición suficiente y necesaria de integrabilidad. Para la ida, ¿Cómo aparece $\varepsilon$ en la ida y que lema uso? ¿Cómo se demuestra la vuelta?

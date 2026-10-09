@@ -1,5 +1,5 @@
 ---
-noteId: 1790979517016
+noteId: 1791587474773
 ---
 
 Si $f:[a,b]\to \mathbb{R}$ es integrable, la función integral $F$ de $f$ es ~~continua~~  en $[a,b]$.  ¿Que propiedad consecuencia de que $f$ sea integrable, desigualdad de un ejercicio y definición básica se usan para demostrar esto?
