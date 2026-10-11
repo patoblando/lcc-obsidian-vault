@@ -2,7 +2,7 @@
 noteId: 1791587474699
 ---
 
-De la condición suficiente y necesaria de integrabilidad. Para la ida, ¿Cómo aparece $\varepsilon$ en la ida y que lema uso? ¿Cómo se demuestra la vuelta?
+De la condición suficiente y necesaria de integrabilidad. ¿Cómo aparece $\varepsilon$ en la ida y que lema uso? ¿Cómo se demuestra la vuelta?
 
 ---
 
@@ -13,10 +13,15 @@ $$
 Es decir, puedo hacer esa diferencia tan pequeña como me plazca.
 
 
-$\implies)$  El $\varepsilon$ aparece por la definición de ínfimo y supremo, si le resto o sumo $\frac{\varepsilon}{2}$ a la integral, debe haber sumas superiores e inferiores entre el valor del area real y esta diferencia. Para unificarlas en una partición tomo la unión, que va a ser una mejor aproximación del area porque tiene más puntos, quedando la desigualdad
+$\implies)$ Sea $f$ integrable.  El $\varepsilon$ aparece por la [[caracterización de ínfimo y supremo]]. Tenemos que, para todo $\frac{\varepsilon}{2} > 0$, sea $\underline{\int}_{a}^{b} f \, = \int_{a}^{b} f \,$ el supremo de todas las sumas inferiores vale
 $$
-U(f,P)-L(f,P) < \varepsilon.
+\int_{a}^{b} f \,  -\frac{\varepsilon}{2}<L(f,P_{1})
 $$
+
+
+
+
+
 $\impliedby)$  Si para cualquier $\varepsilon$ existe $P$ partición tal que se da la diferencia, entonces, por definición de integral superior e integral inferior y de supremo e ínfimo
 $$
 0\leq \overline{\int}_{a}^{b} f \, - \underline{\int}_{a}^{b} f \, \leq U(f,P)-L(f,P)< \varepsilon.
