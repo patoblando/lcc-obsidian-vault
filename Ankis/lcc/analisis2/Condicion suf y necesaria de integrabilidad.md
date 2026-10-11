@@ -13,14 +13,18 @@ $$
 Es decir, puedo hacer esa diferencia tan pequeña como me plazca.
 
 
-$\implies)$ Sea $f$ integrable.  El $\varepsilon$ aparece por la [[caracterización de ínfimo y supremo]]. Tenemos que, para todo $\frac{\varepsilon}{2} > 0$, sea $\underline{\int}_{a}^{b} f \, = \int_{a}^{b} f \,$ el supremo de todas las sumas inferiores vale
+$\implies)$ Sea $f$ integrable.  El $\varepsilon$ aparece por la [[caracterización de supremo]]. Tenemos que, para todo $\frac{\varepsilon}{2} > 0$, sea $\underline{\int}_{a}^{b} f \, = \int_{a}^{b} f \,$ el supremo de todas las sumas inferiores vale
 $$
 \int_{a}^{b} f \,  -\frac{\varepsilon}{2}<L(f,P_{1})
 $$
-
-
-
-
+por lo que
+$$
+\int_{a}^{b} f \,  -L(f,P_{1})< \frac{\varepsilon}{2}
+$$
+De manera similar, por [[caracterización de ínfimo]] 
+$$
+U(f,P_{2})<
+$$
 
 $\impliedby)$  Si para cualquier $\varepsilon$ existe $P$ partición tal que se da la diferencia, entonces, por definición de integral superior e integral inferior y de supremo e ínfimo
 $$
