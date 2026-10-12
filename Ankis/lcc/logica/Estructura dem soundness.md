@@ -1,3 +1,7 @@
+---
+noteId: 1791750730134
+---
+
 El teorema de soundess es una demostración extremadamente larga pero no muy compleja por inducción. Enunciá el caso base y mencioná la estructura que siguen todos los pasos inductivos.
 
 ---

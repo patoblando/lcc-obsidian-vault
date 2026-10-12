@@ -1,3 +1,7 @@
+---
+noteId: 1791750730076
+---
+
 Dar la caracterización del supremo.
 
 ---

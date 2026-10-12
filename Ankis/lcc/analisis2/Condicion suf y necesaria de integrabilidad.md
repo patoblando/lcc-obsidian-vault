@@ -19,13 +19,24 @@ $$
 $$
 por lo que
 $$
-\int_{a}^{b} f \,  -L(f,P_{1})< \frac{\varepsilon}{2}
+\int_{a}^{b} f \,  -L(f,P_{1})< \frac{\varepsilon}{2}\tag{1}
 $$
 De manera similar, por [[caracterización de ínfimo]] 
 $$
-U(f,P_{2})<
+U(f,P_{2}) < \int_{a}^{b} f \, + \frac{\varepsilon}{2}
 $$
-
+luego
+$$
+U(f,P_{2}) - \int_{a}^{b} f \,<\frac{\varepsilon}{2} \tag{2} 
+$$
+Ahora, sea $P = P_{1} \cup P_{2}$, se tiene que 
+$$
+U(f,P)\leq U(f,P_{2}) \text{ y } L(f,P_{1})\leq L(f,P). \tag{3}
+$$
+Entonces, reemplazando donde corresponde usando $(3)$, y sumando $(1)$ y $(2)$ llegamos a:
+$$
+U(f,P)-L(f,P)<\varepsilon .
+$$
 $\impliedby)$  Si para cualquier $\varepsilon$ existe $P$ partición tal que se da la diferencia, entonces, por definición de integral superior e integral inferior y de supremo e ínfimo
 $$
 0\leq \overline{\int}_{a}^{b} f \, - \underline{\int}_{a}^{b} f \, \leq U(f,P)-L(f,P)< \varepsilon.

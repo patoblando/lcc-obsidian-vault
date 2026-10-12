@@ -1,3 +1,7 @@
+---
+noteId: 1791750730027
+---
+
 Dar la caracterización del infimo.
 
 ---
