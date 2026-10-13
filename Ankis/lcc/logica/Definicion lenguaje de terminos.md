@@ -1,1 +1,1 @@
-Enunciá los conjuntos de símobolos que se utilizan para la definicón de $TERMEnunci´á los s´ímbolosconjuntos de s´ímobolos y q qus e se utilizan para la definic´ón ede mmk$terr\mathrmrTerr\mathrmrTERMm{}mm{}m$$
+Enunciá los conjuntos de símobolos que se utilizan para la definicón de $terw$
