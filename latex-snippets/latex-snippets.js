@@ -296,7 +296,7 @@ export default [
 
 	// logica
 	{trigger: "val[", replacement: "\\left[ \\! \\left[ $0 \\right] \\! \\right]_{v} $1", options: "mA"},
-	{trigger: "rep[", replacement: "[${0:t}/${1:x_{1}}]", options: "mA"},
+	{trigger: "rep[", replacement: "[${0:t}/${1:x_{i}}]", options: "mA"},
 	{trigger: "|=", replacement: "\\models", options: "mA"},
 	{trigger: "|-", replacement: "\\vdash", options: "mA"},
 	{trigger: "bot", replacement: "\\perp", options: "mA"},
