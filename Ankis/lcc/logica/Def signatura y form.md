@@ -8,5 +8,6 @@ Sea $(\mathcal{F},\mathcal{P})$ una signatura. El conjunto de fórmulas $\mathrm
 1. $\perp \in \mathrm{Form}_{(\mathcal{F},\mathcal{P})}$.
 2. Si $\phi \in \mathrm{Form}_{(\mathcal{F},\mathcal{P})}$, entonces $(\neg \phi)\in \mathrm{Form}_{(\mathcal{F},\mathcal{P})}$
 3. Si $\phi,\psi \in \mathrm{Form}_{(\mathcal{F},\mathcal{P})}$, entonces $(\phi \_ \psi)\in \mathrm{Form}_{(\mathcal{F},\mathcal{P})}$. $\_ = \land,\lor,\to$.
-4. Si $ar(P_{i})=0$, entonces $P_{i}\in \mathrm{Form}_{(\mathcal{F},\mathcal{P})}$
-5. Si $ar(P_{i})=n>0$, y 
+4. Si $ar(P_{i})=0$, entonces $P_{i}\in \mathrm{Form}_{(\mathcal{F},\mathcal{P})}$.
+5. Si $ar(P_{i})=n>0$, y $t_{1},r_{2},\dots ,t_{n}\in \mathrm{TERM}_{\mathcal{F}}$ , entonces $P_{i}(t_{1},t_{2},\dots,t_{n})\in \mathrm{Form}_{(\mathcal{F},\mathcal{P})}$.
+6. Si $x_{i}\in Var$ y $\phi \in \mathrm{Form}_{(\mathcal{F},\mathcal{P})}$, entonces $(\forall x_{i}\phi),\ (\exists x_{i}\phi)\in \mathrm{Form}_{(\mathcal{F},\mathcal{P})}$.
