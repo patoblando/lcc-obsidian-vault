@@ -1,0 +1,1 @@
+Sean $t \in \mathrm{TERM}$
