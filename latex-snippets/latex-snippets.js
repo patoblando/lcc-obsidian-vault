@@ -300,6 +300,8 @@ export default [
 	{trigger: "|=", replacement: "\\models", options: "mA"},
 	{trigger: "|-", replacement: "\\vdash", options: "mA"},
 	{trigger: "bot", replacement: "\\perp", options: "mA"},
+	{trigger: "ter", replacement: "\\mathrm{TERM}", options: "mA"},
+	
 
     // Misc
 
