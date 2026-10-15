@@ -1,0 +1,1 @@
+Defina *signatura* y el conjunto $fo\mathrm{}$
