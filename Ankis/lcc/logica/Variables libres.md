@@ -1,9 +1,12 @@
-Defina intuitivamente variables libres. De las dos l
+Defina intuitivamente variables libres. De las dos lineas más significativas de la definición.
+
+---
+
+Una *variable libre* es un elemento $x \in Var$ tal que dicho elemento no está siendo utilizado con un $\forall$ o $\exists$. Estos símbolso, que durante esta unidad no nos dicen nada, nos indican que variables están **ligadas**. Por eso, en una fórmula cualquiera $\phi$, las variables libres son todas menos las que estén precedidas por uno de aquellos símbolos. En la definición recursiva quedan las dos líneas
 $$
-\begin{array}{lcll}
-FV_{T} & : & \mathrm{TERM}\to 2^{Var} \\
-FV_{T}(x_{i})  & = &  \left\{ x_{i} \right\} \\
-FV_{T}(f_{i}) & = & \emptyset  \\
-FV_{T}(f_{i}(t_{1},t_{2},\dots,t_{n})) & = & FV_{T}(t_{1})\ \cup \ FV_{T}(t_{2}) \ \cup \ \dots\ \cup\ FV_{T}(t_{n})
+\begin{array}{lcl}
+FV(\forall x_{i}\phi) & = & FV(\phi)-\left\{ x_{i} \right\} \\
+FV(\exists x_{i}\phi) & = & FV(\phi)-\left\{ x_{i} \right\}.
 \end{array}
 $$
+
