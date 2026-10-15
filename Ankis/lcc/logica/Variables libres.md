@@ -9,5 +9,4 @@ FV(\forall x_{i}\phi) & = & FV(\phi)-\left\{ x_{i} \right\} \\
 FV(\exists x_{i}\phi) & = & FV(\phi)-\left\{ x_{i} \right\}.
 \end{array}
 $$
-
-$^{}$
+$\mathcal{P}(Var)$
