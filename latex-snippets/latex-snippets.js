@@ -303,6 +303,7 @@ export default [
 	{trigger: "ter", replacement: "\\mathrm{TERM}", options: "mA"},
 	{trigger: "\\mathrm{TERM}f", replacement: "\\mathrm{TERM}_{\\mathcal{F}}", options: "mA"},
 	{trigger: "FF", replacement: "\\mathcal{F}", options: "mA"},
+	{trigger: "fo\\mathrm{}", replacement: "\\mathcal{Form}", options: "mA"},
 
     // Misc
 
