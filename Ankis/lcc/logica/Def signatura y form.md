@@ -1,3 +1,7 @@
+---
+noteId: 1792117376213
+---
+
 Defina *signatura* y el conjunto $\mathrm{Form}$.
 
 ---

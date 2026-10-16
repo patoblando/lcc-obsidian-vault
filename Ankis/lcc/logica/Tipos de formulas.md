@@ -1,3 +1,7 @@
+---
+noteId: 1792117376413
+---
+
 Un término o formula se dice __ si no tiene \_\_.
 
 A una fórmula __ la llamaremos \_\_.

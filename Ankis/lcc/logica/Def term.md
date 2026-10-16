@@ -1,3 +1,7 @@
+---
+noteId: 1792117376263
+---
+
 Defina $\mathrm{TERM}$.
 
 ---

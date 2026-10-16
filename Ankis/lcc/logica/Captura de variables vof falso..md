@@ -1,3 +1,7 @@
+---
+noteId: 1792117376113
+---
+
 ¿Verdadero o falso? La operación de sustitución nunca puede cambiar el *significado* de una fórmula. ¿Cómo se conoce a esta situación?
 
 > Nota: El significado de una fórmula aún no está definido, pero la respuesta es intuitiva.

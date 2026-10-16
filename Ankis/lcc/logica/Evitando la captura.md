@@ -1,3 +1,7 @@
+---
+noteId: 1792117376313
+---
+
 ¿Cómo evitamos la captura de variables? Defina término $t$ **libre** para $x_{i}$ en una fórmula $\phi$.
 
 ---

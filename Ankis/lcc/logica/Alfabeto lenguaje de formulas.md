@@ -1,3 +1,7 @@
+---
+noteId: 1792117376062
+---
+
 De el alfabeto para el lenguaje de *fórmulas*.
 
 ---

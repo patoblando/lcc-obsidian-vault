@@ -1,3 +1,7 @@
+---
+noteId: 1792117376016
+---
+
 Defina los conjuntos de símobolos que se utilizan para la definicón de $\mathrm{TERM}$. Defina $\mathrm{TERM}$.
 
 ---

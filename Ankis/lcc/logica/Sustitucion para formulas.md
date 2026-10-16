@@ -1,3 +1,7 @@
+---
+noteId: 1792117376363
+---
+
 Sean $t \in \mathrm{TERM}$ y $\phi \in \mathrm{Form}$, definimos $\phi[t/x_{i}]$ por recursión en $\phi$:
 $$
 \begin{array}{lcl}

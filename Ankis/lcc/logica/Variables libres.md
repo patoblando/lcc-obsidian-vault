@@ -1,3 +1,7 @@
+---
+noteId: 1792117376464
+---
+
 Defina intuitivamente variables libres. De las dos lineas más significativas de la definición.
 
 ---
