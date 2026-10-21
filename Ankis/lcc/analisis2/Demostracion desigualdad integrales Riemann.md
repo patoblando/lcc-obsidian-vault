@@ -18,12 +18,10 @@ Entonces, ~~tomando ínfimo sobre Q~~ si dejamos a $P$ fijo, por $(1)$, $L(f,P)$
 $$
 L(f,P) \leq \inf_{Q} U(f,Q) = \overline{\int}_{a}^{b} f(x) \, . 
 $$
-Esto que hicimos lo podemos hacer para cualquier partición $P$,Luego la la integral superior es una cota superior de todas las $L(f,P)$. Como la integral inferior es la mínima de las cotas superiores, tenemos simplemente que
+Esto es válido para cualquier $P$, pues por más que hayamos dicho que lo fijábamos, el lema nos valida la desigualdad para cualquier par de particiones. Por ende, la integral superior es una cota superior de todas las $L(f,P)$. Como la integral inferior es la mínima de las cotas superiores, tenemos simplemente que
 $$
 \underline{\int}_{a}^{b} f \, \leq \overline{\int}_{a}^{b} f \, .
 $$
-
-Luego la integral superior es una *cota superior* de las *sumas inferiores*, como la integral inferior es el supremo, es la *menor* de las *cotas superiores* de las sumas inferiores,
 $$
 \tag*{$\square$}
 $$
