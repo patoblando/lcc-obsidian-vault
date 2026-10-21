@@ -18,11 +18,10 @@ Entonces, ~~tomando ínfimo sobre Q~~ si fijamos $P$, por $(1)$, $L(f,P)$ es men
 $$
 L(f,P) \leq \inf_{Q} U(f,Q) = \overline{\int}_{a}^{b} f(x) \, , \tag{2}
 $$
-Similarmente, fijando $Q$, $U(f,P)$ es mayor que *cualquier* suma inferior, por lo que debe ser necesariamente mayor que el supremo (que es la menor cota superior):
+Luego la la integral superior es una cota superior de todas las $L(f,P)$. Como la integral inferior es la mínima de las cotas superiores, tenemos simplemente que
 $$
-\underline{\int}_{a}^{b} f(x) \, = \sup_{P}L(f,P) \leq U(f,P) \tag{3}
+\underline{\int}_{a}^{b} f \, \leq \overline{\int}_{a}^{b} f \, .
 $$
-Entonces, juntando $(2)$ y $(3)$ tenemos:
 $$
-\underline{\int}_{a}^{b} f \, 
+\tag*{$\square$}
 $$
