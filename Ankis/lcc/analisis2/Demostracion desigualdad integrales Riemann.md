@@ -13,12 +13,12 @@ Para toda partición $P$ y $Q$ de $[a,b]$ vale, por [[lema desigualdad particion
 $$
 L(f,P) \leq U(f,Q) \tag{1}
 $$
-Entonces, ~~tomando ínfimo sobre Q~~ si fijamos $P$, por $(1)$, $L(f,P)$ es menor que *cualquier* suma superior $Q$. Es decir, $L(f,P)$ es una _cota inferior_, y por defnición de ínfimo (es la *mayor* cota inferior):
+Entonces, ~~tomando ínfimo sobre Q~~ si dejamos a $P$ fijo, por $(1)$, $L(f,P)$ es menor que *cualquier* suma superior $Q$. Es decir, $L(f,P)$ es una _cota inferior_, y por defnición de ínfimo (es la *mayor* cota inferior):
 
 $$
-L(f,P) \leq \inf_{Q} U(f,Q) = \overline{\int}_{a}^{b} f(x) \, , 
+L(f,P) \leq \inf_{Q} U(f,Q) = \overline{\int}_{a}^{b} f(x) \, . 
 $$
-Luego la la integral superior es una cota superior de todas las $L(f,P)$. Como la integral inferior es la mínima de las cotas superiores, tenemos simplemente que
+Esto que hicimos lo podemos hacer para cualquier partición $P$,Luego la la integral superior es una cota superior de todas las $L(f,P)$. Como la integral inferior es la mínima de las cotas superiores, tenemos simplemente que
 $$
 \underline{\int}_{a}^{b} f \, \leq \overline{\int}_{a}^{b} f \, .
 $$
