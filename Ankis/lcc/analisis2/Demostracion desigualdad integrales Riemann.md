@@ -9,12 +9,19 @@ $$
 
 ---
 
-Para toda partición $P$ y $Q$ de $[a,b]$ vale, por [[lema desigualdad particiones]] que $L(f,P) \leq U(f,Q)$. Entonces, tomando ínfimo sobre $Q$
+Para toda partición $P$ y $Q$ de $[a,b]$ vale, por [[lema desigualdad particiones]] que 
 $$
-L(f,P) \leq \inf_{Q} U(f,Q) = \overline{\int}_{a}^{b} f(x) \, , \tag{1}
+L(f,P) \leq U(f,Q) \tag{1}
 $$
-y considerando el supremo de $P$
+Entonces, ~~tomando ínfimo sobre Q~~ si dejamos a $P$ fijo, por $(1)$, $L(f,P)$ es menor que *cualquier* suma superior $Q$. Es decir, $L(f,P)$ es una _cota inferior_, y por defnición de ínfimo (es la *mayor* cota inferior):
+
 $$
-\underline{\int}_{a}^{b} f(x) \, = \sup_{P}L(f,P) \leq U(f,P) \tag{2}
+L(f,P) \leq \inf_{Q} U(f,Q) = \overline{\int}_{a}^{b} f(x) \, . 
 $$
-Entonces, juntando $f(x) \tag{1}$
+Esto es válido para cualquier $P$, pues por más que hayamos dicho que lo fijábamos, el lema nos valida la desigualdad para cualquier par de particiones. Por ende, la integral superior es una cota superior de todas las $L(f,P)$. Como la integral inferior es la mínima de las cotas superiores, tenemos simplemente que
+$$
+\underline{\int}_{a}^{b} f \, \leq \overline{\int}_{a}^{b} f \, .
+$$
+$$
+\tag*{$\square$}
+$$
