@@ -1,0 +1,1 @@
+Para todo operador densidad, $tr(\rho^{2})\leq 1$, con igualdad si y sólo si $\rho$ es puro.
