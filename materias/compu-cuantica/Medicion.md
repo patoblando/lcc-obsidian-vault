@@ -1,0 +1,1 @@
+Una *medición* es un conjunto de [[proyectores]]. 

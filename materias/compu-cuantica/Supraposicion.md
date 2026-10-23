@@ -1,0 +1,1 @@
+Un [[qbit]] está en supraposición si el estado en el que estoy tiene chances de colapsar hacia alguna de mis bases computacionales. Un qbit [[entrelazado]] nunca puede estar en supraposición, sin importarla base.
