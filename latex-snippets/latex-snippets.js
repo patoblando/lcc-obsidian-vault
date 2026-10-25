@@ -64,7 +64,7 @@ export default [
     // {trigger: "Re", replacement: "\\mathrm{Re}", options: "mA"},
 	{trigger: "Im", replacement: "\\mathrm{Im}", options: "mA"},
     {trigger: "bf", replacement: "\\mathbf{$0}", options: "mA"},
-	// {trigger: "rm", replacement: "\\mathrm{$0}$1", options: "mA"},
+	{trigger: "rm", replacement: "\\mathrm{$0}$1", options: "mA"},
 
     // linear algebra
     {trigger: /([^\\])(det)/, replacement: "[[0]]\\[[1]]", options: "rmA"},
@@ -248,9 +248,9 @@ export default [
     {trigger: "dag", replacement: "^{\\dagger}", options: "mA"},
 	{trigger: "o+", replacement: "\\oplus ", options: "mA"},
 	{trigger: "ox", replacement: "\\otimes ", options: "mA"},
-    {trigger: "bra", replacement: "\\bra{$0}$1", options: "mA"},
-	{trigger: "ket", replacement: "\\ket{$0}$1", options: "mA"},
-	{trigger: "brk", replacement: "\\braket{ $0 | $1 }$2", options: "mA"},
+    {trigger: "bra", replacement: "\\bra{$0} $1", options: "mA"},
+	{trigger: "ket", replacement: "\\ket{$0} $1", options: "mA"},
+	{trigger: "brk", replacement: "\\braket{ $0 | $1 } $2", options: "mA"},
     {trigger: "outer", replacement: "\\ket{${0:\\psi}} \\bra{${0:\\psi}} $1", options: "mA"},
 
     // Chemistry
@@ -272,7 +272,7 @@ export default [
 
 	{trigger: "cases", replacement: "\\begin{cases}\n$0\n\\end{cases}", options: "mA"},
 	{trigger: "align", replacement: "\\begin{align}\n$0\n\\end{align}", options: "mA"},
-	{trigger: "array", replacement: "\\begin{array}{$0}\n$1\n\\end{array}", options: "mA"},
+	{trigger: "array", replacement: "\\begin{array}\n$0\n\\end{array}", options: "mA"},
 
 
     // Brackets
@@ -296,16 +296,10 @@ export default [
 
 	// logica
 	{trigger: "val[", replacement: "\\left[ \\! \\left[ $0 \\right] \\! \\right]_{v} $1", options: "mA"},
-	{trigger: "rep[", replacement: "[${0:t}/${1:x_{i}}]", options: "mA"},
+	{trigger: "rep[", replacement: "$0[$1/$2]", options: "mA"},
 	{trigger: "|=", replacement: "\\models", options: "mA"},
 	{trigger: "|-", replacement: "\\vdash", options: "mA"},
 	{trigger: "bot", replacement: "\\perp", options: "mA"},
-	{trigger: "term", replacement: "\\mathrm{TERM}", options: "mA"},
-	{trigger: "form", replacement: "\\mathrm{Form}", options: "mA"},
-	{trigger: "\\mathrm{TERM}f", replacement: "\\mathrm{TERM}_{\\mathcal{F}}", options: "mA"},
-	{trigger: "\\mathrm{Form}fp", replacement: "\\mathrm{Form}_{(\\mathcal{F},\\mathcal{P})}", options: "mA"},
-	{trigger: "FF", replacement: "\\mathcal{F}", options: "mA"},
-	{trigger: "fp", replacement: "(\\mathcal{F},\\mathcal{P})", options: "mA"},
 
     // Misc
 
