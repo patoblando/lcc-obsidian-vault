@@ -40,3 +40,4 @@ P_{i}(t_{1},\dots,t_{n})[t/x_{i}] & = & P_{i}(t_{1}[t/x_{i}],\dots,t_{n}[t/x_{i}
     \end{cases}   
 \end{array}
 $$
+**Importante:** No puedo sustituir una variable por un término si esa variables está ligada.
