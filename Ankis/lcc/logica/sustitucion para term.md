@@ -1,0 +1,1 @@
+Sean $s, t$ términos y $x_{i} \in Var$
