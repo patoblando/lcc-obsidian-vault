@@ -1,5 +1,10 @@
 #home #indice 
 
+Hoy es `= date(today)` - `= [[exams]].deadline - date(today)` until **exams**!
+
+
+
+
 ![[Plan LCC.jpg|637]]
 
 
@@ -28,6 +33,9 @@ TODO: Mover a [[Materias]]
 | **Lógica**     | **Sin aprobar** | **Sin rendir** | **Cursando**     |
 |                |                 |                |                  |
 |                |                 |                |                  |
+
+# Materias que me faltan para el título intermedio
+(Testeando dataview)
 ```dataview
 LIST
 FROM #indice
