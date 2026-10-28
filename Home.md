@@ -7,7 +7,7 @@
 - [[Analisis matematico II]] - [[Ankis analisis 2]] - [[apunte_general_2026_v1.pdf| Apunte general]]
 - [[materias/Logica/Logica|Logica Unidades y Practica]] - [[Ankis/lcc/logica/logica|Ankis Logica]]
 
-# Tabla de materiask
+# Tabla de materias
 
 | Materia        | Regularidad     | Final          | Estado           |
 | -------------- | --------------- | -------------- | ---------------- |
@@ -24,9 +24,12 @@
 | Complementos 1 | Aprobada        | Sin rendir     | *Por rendir*     |
 | **Lógica**     | **Sin aprobar** | **Sin rendir** | **Cursando**     |
 |                |                 |                |                  |
+|                |                 |                |                  |
 ```dataview
-
+LIST
+FROM #indice
 ```
+
 
 # Para cursar próximo cuatrimestre
 - Todas las del 2do cuatrimestre de 2do
