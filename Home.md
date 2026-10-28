@@ -1,5 +1,8 @@
 #home #indice 
 
+`$= dv.luxon.Settings.defaultLocale = "es"; dv.span(dv.date('today').toFormat('cccc, d "de" MMMM'))`
+
+
 Hoy es `= date(today)` - `= [[exams]].deadline - date(today)` until **exams**!
 
 
