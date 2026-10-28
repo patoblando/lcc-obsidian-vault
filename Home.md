@@ -2,12 +2,15 @@
 
 ![[Plan LCC.jpg|637]]
 
+
 # Materias cursando actualmente
 
 - [[Analisis matematico II]] - [[Ankis analisis 2]] - [[apunte_general_2026_v1.pdf| Apunte general]]
 - [[materias/Logica/Logica|Logica Unidades y Practica]] - [[Ankis/lcc/logica/logica|Ankis Logica]]
 
 # Tabla de materias
+
+TODO: Mover a [[Materias]]
 
 | Materia        | Regularidad     | Final          | Estado           |
 | -------------- | --------------- | -------------- | ---------------- |
