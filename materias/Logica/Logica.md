@@ -1,5 +1,4 @@
-Índices:
-
+#indice 
 # Apuntes
 
 0. [[U0-sintaxis-predicados.pdf]]

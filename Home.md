@@ -1,3 +1,5 @@
+#home #indice 
+
 ![[Plan LCC.jpg|637]]
 
 # Materias cursando actualmente
@@ -5,7 +7,7 @@
 - [[Analisis matematico II]] - [[Ankis analisis 2]] - [[apunte_general_2026_v1.pdf| Apunte general]]
 - [[materias/Logica/Logica|Logica Unidades y Practica]] - [[Ankis/lcc/logica/logica|Ankis Logica]]
 
-# Tabla de materias
+# Tabla de materiask
 
 | Materia        | Regularidad     | Final          | Estado           |
 | -------------- | --------------- | -------------- | ---------------- |
@@ -20,8 +22,12 @@
 | LFyC           | Aprobada        | Aprobado       | Aprobada         |
 | Metodos        | Sin aprobar     | Sin rendir     | ***Por cursar*** |
 | Complementos 1 | Aprobada        | Sin rendir     | *Por rendir*     |
-| **Lógica**         | **Sin aprobar**     | **Sin rendir**     | **Cursando**         |
+| **Lógica**     | **Sin aprobar** | **Sin rendir** | **Cursando**     |
 |                |                 |                |                  |
+```dataview
+
+```
+
 # Para cursar próximo cuatrimestre
 - Todas las del 2do cuatrimestre de 2do
 
