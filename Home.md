@@ -27,3 +27,4 @@
 
 # Otras materias que puedo cursar 
 - Estructuras de Datos y Algoritmos II (del primer cuatrimestre, probablemente no tenga recursado) 
+
