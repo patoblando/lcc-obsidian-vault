@@ -10,5 +10,7 @@
   "foldIndent": true,
   "rightToLeft": false,
   "newFileLocation": "current",
-  "attachmentFolderPath": "/"
+  "attachmentFolderPath": "/",
+  "showInlineTitle": true,
+  "autoPairMarkdown": false
 }

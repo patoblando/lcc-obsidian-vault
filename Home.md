@@ -3,7 +3,6 @@
 `$= dv.luxon.Settings.defaultLocale = "es"; dv.span(dv.date('today').toFormat("cccc, d 'de' MMMM, yyyy"))` 
 
 
-
 ![[Plan LCC.jpg|637]]
 
 
