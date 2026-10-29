@@ -22,5 +22,9 @@ $\left[ \! \left[ \perp \right] \! \right]_{\mathcal{M},s}=F$
 # Cuantificadores:
 
 ## Universal
-$\left[ \! \left[ \forall x_{i}\phi \right] \! \right]_{\mathcal{M},s}=\left\{ min{\left[ \! \left[ \phi \right] \! \right]_{\mathcal{M},s[x_{i}\mapsto a]}|a\in \left| \mathcal{M} \right|} \right\}$
+$\left[ \! \left[ \forall x_{i}\phi \right] \! \right]_{\mathcal{M},s}=min\left\{ {\left[ \! \left[ \phi \right] \! \right]_{\mathcal{M},s[x_{i}\mapsto a]}|a\in \left| \mathcal{M} \right|} \right\}$
+
+## Existencial:
+$\left[ \! \left[ \exists x_{i}\phi \right] \! \right]_{\mathcal{M},s}=max\left\{ {\left[ \! \left[ \phi \right] \! \right]_{\mathcal{M},s[x_{i}\mapsto a]}|a\in \left| \mathcal{M} \right|} \right\}$
+
 Donde $s[x_{i}\mapsto a]$ es un nuevo entorno, que coincide con $s$ en todas las variables salvo, (quizás) en $x_{i}$, donde vale $a$.
