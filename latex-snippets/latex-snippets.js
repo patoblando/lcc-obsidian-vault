@@ -3,7 +3,7 @@ export default [
 	{trigger: "qed", replacement: "\n\\tag*{$\\square$}\n$0", options: "mA"},
     // Math mode
 	{trigger: "mk", replacement: "$$0$", options: "tA"},
-	{trigger: "", replacement: "$$0$", options: "tA"},
+	// {trigger: "", replacement: "$$0$", options: "tA"},
 	{trigger: "dm", replacement: "$$\n$0\n$$", options: "tAw"},
 	{trigger: "beg", replacement: "\\begin{$0}\n$1\n\\end{$0}", options: "mA"},
 

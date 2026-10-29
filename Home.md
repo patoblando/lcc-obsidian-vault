@@ -5,7 +5,6 @@
 
 ![[Plan LCC.jpg|637]]
 
-
 # Materias cursando actualmente
 
 - [[Analisis matematico II]] - [[Ankis analisis 2]] - [[apunte_general_2026_v1.pdf| Apunte general]]
@@ -45,4 +44,4 @@ FROM #indice
 
 # Otras materias que puedo cursar 
 - Estructuras de Datos y Algoritmos II (del primer cuatrimestre, probablemente no tenga recursado) 
-
+But here it doesn't
