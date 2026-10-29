@@ -299,6 +299,7 @@ export default [
 
 	// logica
 	{trigger: "val[", replacement: "\\left[ \\! \\left[ $0 \\right] \\! \\right]_{v} $1", options: "mA"},
+	{trigger: "mval[", replacement: "\\left[ \\! \\left[ $0 \\right] \\! \\right]_{\\mathcal{M},s} $1", options: "mA"},
 	{trigger: "rep[", replacement: "[${0:t}/${1:x_{i}}]", options: "mA"}, 
 	{trigger: "|=", replacement: "\\models", options: "mA"},
 	{trigger: "|-", replacement: "\\vdash", options: "mA"},
