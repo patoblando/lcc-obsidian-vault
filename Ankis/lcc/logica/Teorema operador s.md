@@ -2,7 +2,7 @@ Sean $s,s':Var\to \mathcal{M}$. Si $s$ y $s'$ coinciden en todas las variables l
 $$
 \text{??}
 $$
-¿Cuáles son los *casos base* para esta demostración?
+¿Sobre que definición hago inducción para demostrar esto? ¿Cuáles son los *casos base* para esta demostración?
 
 ---
 
@@ -10,11 +10,8 @@ Sean $s,s':Var\to \mathcal{M}$. Si $s$ y $s'$ coinciden en todas las variables l
 $$
 \left[ \! \left[ \phi \right] \! \right]_{\mathcal{M},s} = \left[ \! \left[ \phi \right] \! \right]_{\mathcal{M},s'}
 $$
-Los casos base son todos los de la semántica para fórmulas atómicas:
+Hago inducción sobre $\phi \in \mathrm{Form}$. Como estoy haciendo inducción sobre $Form$, lo voy a tener que demostrar también para $\mathrm{TERM}$. Así, los casos base de term son
+$$
 
-## Igualdad: $\phi=(t_{1}=t_{2})$
-
-## Predicados si $ar(P)=n>0$: $\phi=P(t_{1},\dots,t_{n})$
-
-## Bottom: $\phi=\perp$
+$$
 
