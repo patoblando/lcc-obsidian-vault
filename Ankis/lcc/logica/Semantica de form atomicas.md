@@ -6,4 +6,9 @@ La definición para términos, los "interpreta". Le asigna valores de mi univers
 
 Ahora sí podemos definir $\left[ \! \left[  \right] \! \right]_{\mathcal{M},s}:\mathrm{Form}\to \left\{ F,T \right\}$:
 
-1. Igualdad: 
+$$
+\begin{array}{lcr}
+
+\end{array}
+$$
+2.  
