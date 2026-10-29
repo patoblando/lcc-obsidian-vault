@@ -275,7 +275,7 @@ export default [
 
 	{trigger: "cases", replacement: "\\begin{cases}\n$0\n\\end{cases}", options: "mA"},
 	{trigger: "align", replacement: "\\begin{align}\n$0\n\\end{align}", options: "mA"},
-	{trigger: "array", replacement: "\\begin{array}\n$0\n\\end{array}", options: "mA"},
+	{trigger: "array", replacement: "\\begin{array}{${0:lcr}}\n$1\n\\end{array}", options: "mA"},
 
 
     // Brackets
