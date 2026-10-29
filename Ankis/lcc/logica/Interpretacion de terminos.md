@@ -1,0 +1,1 @@
+Defina formalmente *interpretación de términos*
