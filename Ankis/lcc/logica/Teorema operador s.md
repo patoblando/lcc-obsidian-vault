@@ -11,7 +11,5 @@ $$
 \left[ \! \left[ \phi \right] \! \right]_{\mathcal{M},s} = \left[ \! \left[ \phi \right] \! \right]_{\mathcal{M},s'}
 $$
 Hago inducción sobre $\phi \in \mathrm{Form}$. Como estoy haciendo inducción sobre $Form$, lo voy a tener que demostrar también para $\mathrm{TERM}$. Así, los casos base de term son
-$$
 
-$$
-
+==SIN TERMINAR==
