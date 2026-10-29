@@ -1,4 +1,4 @@
-Defina formalmente *interpretación de términos* para un modelo $\mathcal{M}$ de una signatura $(\mathcal{F},\mathcal{P})$.
+Defina formalmente *interpretación de **términos*** para un modelo $\mathcal{M}$ de una signatura $(\mathcal{F},\mathcal{P})$.
 
 ---
 

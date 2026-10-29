@@ -1,0 +1,1 @@
+Defina $s : \mathrm{Form}\to{\left\{ F,T \right\}}$ 
