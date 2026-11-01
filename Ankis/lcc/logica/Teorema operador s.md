@@ -12,5 +12,4 @@ $$
 $$
 Hago inducción sobre $\phi \in \mathrm{Form}$. Como estoy haciendo inducción sobre $Form$, lo voy a tener que demostrar también para $\mathrm{TERM}$. Así, los casos base de term son
 
-- Bottom: $\phi=\perp$, entonces $\left[ \! \left[ \phi \right] \! \right]_{\mathcal{M},s}=\left[ \! \left[ \phi \right] \! \right]_{\mathcal{M},s'}=F$. 
-- 
+- Bottom: $\phi=\perp$, entonces $\left[ \! \left[ \phi \right] \! \right]_{\mathcal{M},s}=\left[ \! \left[ \phi \right] \! \right]_{\mathcal{M},s'}=F$. ffq
