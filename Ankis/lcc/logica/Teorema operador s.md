@@ -10,6 +10,4 @@ Sean $s,s':Var\to \mathcal{M}$. Si $s$ y $s'$ coinciden en todas las variables l
 $$
 \left[ \! \left[ \phi \right] \! \right]_{\mathcal{M},s} = \left[ \! \left[ \phi \right] \! \right]_{\mathcal{M},s'}
 $$
-Hago inducción sobre $\phi \in \mathrm{Form}$. Como estoy haciendo inducción sobre $Form$, lo voy a tener que demostrar también para $\mathrm{TERM}$. Así, los casos base de term son
-
-- Bottom: $\phi=\perp$, entonces $\left[ \! \left[ \phi \right] \! \right]_{\mathcal{M},s}=\left[ \! \left[ \phi \right] \! \right]_{\mathcal{M},s'}=F$. 
+Hago inducción sobre $\phi \in \mathrm{Form}$. Como estoy haciendo inducción sobre $Form$, 
