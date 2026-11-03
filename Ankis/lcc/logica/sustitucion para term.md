@@ -2,7 +2,7 @@
 noteId: 1793123583503
 ---
 
-Sean $s, t \in \mathrm{Var}$ y $x_{i} \in \mathrm{Var}$. Definimos la sustitución de $x_{i}$ por $t$ en $s$ por recursión en s:
+Sean $s, t \in \mathrm{TERM}$ y $x_{i} \in \mathrm{Var}$. Definimos la sustitución de $x_{i}$ por $t$ en $s$ por recursión en s:
 
 ---
 
