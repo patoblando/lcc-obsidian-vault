@@ -15,4 +15,13 @@ $$
 \left[ \! \left[ \phi \right] \! \right]_{\mathcal{M},s} = \left[ \! \left[ \phi \right] \! \right]_{\mathcal{M},s'}
 $$
 
-El caso base es $\phi = \perp$
+Los casos base son:
+- $\phi \equiv \perp$
+- Si $ar(P_{i}=0)$ entonces $\phi\equiv P_{i}$ es un caso base
+- Si $ar(P_{i})=n>0$, y $t_{1},t_{2},\dots,t_{n}\in \mathrm{TERM}_{\mathcal{F}}$ entonces $\phi\equiv P_{i}$ es un caso base[^1]
+- $\phi\equiv t_{1}=t_{2}$[^1]
+
+[^1]: Acá necesito un lema que, sean los $s,s'$ de la premisa y $t \in \mathrm{TERM}$, entonces 
+    $$
+    \left[ \! \left[ t \right] \! \right]_{\mathcal{M},s} = \left[ \! \left[ t \right] \! \right]_{\mathcal{M},s'} 
+    $$
