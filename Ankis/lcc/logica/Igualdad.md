@@ -1,3 +1,7 @@
+---
+noteId: 1793724613706
+---
+
 ¿Que regla de formación de fórmulas agregamos y cómo se define la semántica de igualdad para *todos* los modelos (por convenio)?
 
 ---

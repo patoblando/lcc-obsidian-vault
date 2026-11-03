@@ -1,3 +1,7 @@
+---
+noteId: 1793724613610
+---
+
 Sea $(\mathcal{F},\mathcal{P})$ una signatura, defina **modelo** o **interpretación** $\mathcal{M}$ para $(\mathcal{F},\mathcal{P})$
 
 ---

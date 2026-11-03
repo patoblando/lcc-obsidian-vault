@@ -1,3 +1,7 @@
+---
+noteId: 1793724614104
+---
+
 Sean $s,s':Var\to \mathcal{M}$. Si $s$ y $s'$ coinciden en todas las variables libres de $\phi$, entonces
 $$
 \text{??}
@@ -10,6 +14,5 @@ Sean $s,s':Var\to \mathcal{M}$. Si $s$ y $s'$ coinciden en todas las variables l
 $$
 \left[ \! \left[ \phi \right] \! \right]_{\mathcal{M},s} = \left[ \! \left[ \phi \right] \! \right]_{\mathcal{M},s'}
 $$
-Hago inducción sobre $\phi \in \mathrm{Form}$. Como estoy haciendo inducción sobre $Form$, 
 
-
+El caso base es $\phi = \perp$

@@ -1,3 +1,7 @@
+---
+noteId: 1793724613954
+---
+
 ¿Cómo se define semántica para el cuantificador universal y el existencial? De un ejemplo y uselo para dar una idea conceptual de que hace $s[x_{i}\mapsto a]$ y como se usa en las definiciones.
 
 ---

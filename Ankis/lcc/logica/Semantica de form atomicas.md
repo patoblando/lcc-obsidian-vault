@@ -1,3 +1,7 @@
+---
+noteId: 1793724614030
+---
+
 Complete la definición de $\left[ \! \left[  \right] \! \right]_{\mathcal{M},s} : \mathrm{Form}\to{\left\{ F,T \right\}}$ para fórmulas atómicas y note la diferencia con $\left[ \! \left[  \right] \! \right]_{\mathcal{M},s}: \mathrm{TERM}\to \left| \mathcal{M} \right|$.
 
 ## Igualdad:
