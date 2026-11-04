@@ -21,8 +21,14 @@ Los casos base son:
 - Si $ar(P_{i})=n>0$, y $t_{1},t_{2},\dots,t_{n}\in \mathrm{TERM}_{\mathcal{F}}$ entonces $\phi\equiv P_{i}$ es un caso base[^1]
 - $\phi\equiv t_{1}=t_{2}$[^1]
   
-Sí, los pasos *inductivos* más importantes son los de $\phi\equiv \forall x\psi$ y $\phi\equiv \exists x\psi$. Para demostrarlos, mi hipótesis inductiva es: sean $v,w:\mathrm{Var}\to \left| \mathcal{M} \right|$  coinciden en todas las variables libres de $\psi \implies \left[ \! \left[ \psi \right] \! \right]_{\mathcal{M},s}=\left[ \! \left[ \psi \right] \! \right]_{\mathcal{M},s'}$.   
+Sí, los pasos *inductivos* más importantes son los de $\phi\equiv \forall x\psi$ y $\phi\equiv \exists x\psi$. Para demostrarlos, mi hipótesis inductiva es: sean $v,w:\mathrm{Var}\to \left| \mathcal{M} \right|$  coinciden en todas las variables libres de $\psi \implies \left[ \! \left[ \psi \right] \! \right]_{\mathcal{M},s}=\left[ \! \left[ \psi \right] \! \right]_{\mathcal{M},s'}$. Para demostrar eso en la formula de un existencial o universal, tenemos que ver que los siguientes conjuntos son iguales:
+$$
+\begin{array}{lcr}
+A  & = & \left\{ \left[ \! \left[ \psi \right] \! \right]_{\mathcal{M},s[x_{i}\to a]} : a \in \left| \mathcal{M} \right| \right\} \\
 
+B  & = & \left\{ \left[ \! \left[ \psi \right] \! \right]_{\mathcal{M},s'[x_{i}\to a]} : a \in \left| \mathcal{M} \right| \right\}
+\end{array}
+$$
 [^1]: Acá necesito un lema que, sean los $s,s'$ de la premisa y $t \in \mathrm{TERM}$, entonces 
     $$
     \left[ \! \left[ t \right] \! \right]_{\mathcal{M},s} = \left[ \! \left[ t \right] \! \right]_{\mathcal{M},s'} 

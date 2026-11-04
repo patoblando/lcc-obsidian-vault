@@ -11,8 +11,8 @@ export default [
 	{trigger: "var", replacement: "\\mathrm{Var}", options: "mA"},
 	{trigger: "\\mathrm{TERM}f", replacement: "\\mathrm{TERM}_{\\mathcal{F}}", options: "mA"},
 	{trigger: "\\mathrm{Form}fp", replacement: "\\mathrm{Form}_{(\\mathcal{F},\\mathcal{P})}", options: "mA"},
+	{trigger: "univ", replacement: "\\left| \\mathcal{M} \\right|", options: "mA"},
 	{trigger: "FF", replacement: "\\mathcal{F}", options: "mA"},
 	{trigger: "fp", replacement: "(\\mathcal{F},\\mathcal{P})", options: "mA"},
-
 ]
 
