@@ -114,7 +114,7 @@ Identidad clave: $1+\cos\theta = 2\cos^2\frac\theta2$.
 
 ## 5.1 Armar el polinomio de Taylor
 
-$$T_n(f,a)(x) = \sum_{k=0}^{n}\frac{f^{(k)}(a)}{k!}(x-a)^k$$
+$$T_n(f,a)(x) = \sum_{k=1}^{n}\frac{f^{(k)}(a)}{k!}(x-a)^k$$
 
 Receta:
 
