@@ -73,7 +73,7 @@ Dan lo mismo. Si te sale distinto, algo está mal planteado.
 
 ### Receta
 
-1. Identificá cómo viene dada la curva (cartesiana, paramétrica o polar) y elegí la fórmula.
+1. Identificá cómo viene dada la curva (cartesiana, paramétrica o polar) y elegí la nfórmula.
 2. Derivá.
 3. Armá lo que va **dentro de la raíz**. Casi siempre se simplifica a un cuadrado perfecto (si no, es una sustitución clásica).
 4. Sacá la raíz con valor absoluto (ver sección 4.0) y integrá en el intervalo dado.
