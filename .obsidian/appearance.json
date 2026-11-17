@@ -7,5 +7,6 @@
     "custom_caption",
     "image_zoom2",
     "hide-noteid-yanki"
-  ]
+  ],
+  "showRibbon": true
 }
