@@ -1,3 +1,7 @@
+---
+noteId: 1794954777363
+---
+
 ¿Cuales son las 3 identidades trigonométricas del doble ángulo?
 
 ---

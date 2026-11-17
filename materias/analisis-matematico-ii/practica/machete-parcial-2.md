@@ -35,11 +35,11 @@ $$A = \frac12\int_{\alpha}^{\beta} r(\theta)^2\,d\theta$$
 
 ### Los tres métodos
 
-| Método | Fórmula | Cuándo |
-|---|---|---|
-| **Discos** | $V = \pi\int R^2\,dx$ | La región toca al eje de giro (sin hueco) |
-| **Arandelas** | $V = \pi\int (R^2 - r^2)\,dx$ | Hay hueco entre la región y el eje |
-| **Cáscaras** | $V = 2\pi\int (\text{radio})(\text{altura})\,dx$ | Cuando conviene integrar en la variable "perpendicular" al eje |
+| Método        | Fórmula                                          | Cuándo                                                         |
+| ------------- | ------------------------------------------------ | -------------------------------------------------------------- |
+| **Discos**    | $V = \pi\int R^2\,dx$                            | La región toca al eje de giro (sin hueco)                      |
+| **Arandelas** | $V = \pi\int (R^2 - r^2)\,dx$                    | Hay hueco entre la región y el eje                             |
+| **Cáscaras**  | $V = 2\pi\int (\text{radio})(\text{altura})\,dx$ | Cuando conviene integrar en la variable "perpendicular" al eje |
 
 $R$ = radio exterior, $r$ = radio interior. Los dos son **distancias al eje de giro**.
 
@@ -80,10 +80,10 @@ Dan lo mismo. Si te sale distinto, algo está mal planteado.
 
 ### Fórmulas
 
-| Tipo | Fórmula |
-|---|---|
-| Cartesiana $y=f(x)$, $x\in[a,b]$ | $L = \displaystyle\int_a^b \sqrt{1 + f'(x)^2}\,dx$ |
-| Paramétrica $(x(t),y(t))$, $t\in[a,b]$ | $L = \displaystyle\int_a^b \sqrt{x'(t)^2 + y'(t)^2}\,dt$ |
+| Tipo                                                 | Fórmula                                                           |
+| ---------------------------------------------------- | ----------------------------------------------------------------- |
+| Cartesiana $y=f(x)$, $x\in[a,b]$                     | $L = \displaystyle\int_a^b \sqrt{1 + f'(x)^2}\,dx$                |
+| Paramétrica $(x(t),y(t))$, $t\in[a,b]$               | $L = \displaystyle\int_a^b \sqrt{x'(t)^2 + y'(t)^2}\,dt$          |
 | **Polar** $r = f(\theta)$, $\theta\in[\alpha,\beta]$ | $L = \displaystyle\int_\alpha^\beta \sqrt{r^2 + (r')^2}\,d\theta$ |
 
 ### Longitud de curva en polares: cómo se plantea
@@ -132,18 +132,18 @@ Atajos (usalos antes de derivar a lo bruto):
 
 ## 5.2 Desarrollos en $a=0$ para memorizar
 
-| Función | Desarrollo |
-|---|---|
-| $e^x$ | $\displaystyle\sum \frac{x^k}{k!}$ |
-| $\text{sen}\,x$ | $\displaystyle\sum (-1)^k\frac{x^{2k+1}}{(2k+1)!}$ |
-| $\cos x$ | $\displaystyle\sum (-1)^k\frac{x^{2k}}{(2k)!}$ |
-| $\text{senh}\,x$ | $\displaystyle\sum \frac{x^{2k+1}}{(2k+1)!}$ |
-| $\cosh x$ | $\displaystyle\sum \frac{x^{2k}}{(2k)!}$ |
-| $\dfrac{1}{1-x}$ | $\displaystyle\sum x^k$ |
-| $\ln(1+x)$ | $\displaystyle\sum (-1)^{k+1}\frac{x^k}{k}$ |
-| $\arctan x$ | $\displaystyle\sum (-1)^k\frac{x^{2k+1}}{2k+1}$ |
-| $(1+x)^\alpha$ | $\displaystyle\sum \binom{\alpha}{k}x^k$ |
-| $a^x$ | $\displaystyle\sum \frac{(\ln a)^k}{k!}x^k$ |
+| Función          | Desarrollo                                         |
+| ---------------- | -------------------------------------------------- |
+| $e^x$            | $\displaystyle\sum \frac{x^k}{k!}$                 |
+| $\text{sen}\,x$  | $\displaystyle\sum (-1)^k\frac{x^{2k+1}}{(2k+1)!}$ |
+| $\cos x$         | $\displaystyle\sum (-1)^k\frac{x^{2k}}{(2k)!}$     |
+| $\text{senh}\,x$ | $\displaystyle\sum \frac{x^{2k+1}}{(2k+1)!}$       |
+| $\cosh x$        | $\displaystyle\sum \frac{x^{2k}}{(2k)!}$           |
+| $\dfrac{1}{1-x}$ | $\displaystyle\sum x^k$                            |
+| $\ln(1+x)$       | $\displaystyle\sum (-1)^{k+1}\frac{x^k}{k}$        |
+| $\arctan x$      | $\displaystyle\sum (-1)^k\frac{x^{2k+1}}{2k+1}$    |
+| $(1+x)^\alpha$   | $\displaystyle\sum \binom{\alpha}{k}x^k$           |
+| $a^x$            | $\displaystyle\sum \frac{(\ln a)^k}{k!}x^k$        |
 
 ## 5.3 Acotar el error
 

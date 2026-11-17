@@ -1,3 +1,7 @@
+---
+noteId: 1794954777419
+---
+
 Cual es la fórmula del resto de lagrange? cual es la cota?
 
 ---
