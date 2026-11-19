@@ -163,4 +163,4 @@ $P=(1,2)$, direcciones hacia $(2,2)$ y hacia $(1,1)$, con valores $2$ y $-2$.
 1. Identificá el molde (partida en el origen, o direccionales + gradiente).
 2. Molde A: seguí los pasos 1 a 4 en orden. Cada paso alimenta al siguiente.
 3. Molde B: normalizá, planteá el sistema y resolvé.
-4. Si te trabás en un paso, dejá el planteo escrito: las definiciones del apartado 0 valen puntos.
+4. Si te trabás en un paso, dejá el planteo escrito: las definiciones del apartado 0 valen puntos.z
