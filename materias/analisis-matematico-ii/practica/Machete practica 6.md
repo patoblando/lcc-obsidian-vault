@@ -1,166 +1,168 @@
-# Machete P6: los dos moldes de examen
+# Definiciones de la Unidad 6 (varias variables)
 
-Todo está pensado para **resolver rápido**, no para entender. Notación: $r=\sqrt{x^2+y^2}$ y $v_0=\dfrac{v}{\|v\|}$.
+**Cómo usar esta hoja:** cada definición tiene su fórmula y una línea de "en el examen". Las secciones 1 a 4 son las que usás en los dos moldes de los finales. Las secciones 5 a 7 son las otras que pueden aparecer.
 
----
-
-## 0. Definiciones mínimas
-
-**Norma y distancia.** $\|(x,y)\|=\sqrt{x^2+y^2}$. Cerca del origen, $r\to0$ es lo mismo que $(x,y)\to(0,0)$.
-
-**Límite.** $\displaystyle\lim_{x\to a}f(x)=\ell$ si $f(x)$ se acerca a $\ell$ cuando $x\to a$ por **cualquier** camino.
-- Dos caminos con límites distintos $\Rightarrow$ el límite **no existe**.
-- Muchos caminos con el mismo límite **no** prueban que exista.
-
-**Continuidad en $a$.** $\displaystyle\lim_{x\to a}f(x)=f(a)$.
-
-**Derivada parcial en el origen (siempre por definición cuando la fórmula cambia ahí):**
-
-$$f_x(0,0)=\lim_{h\to0}\frac{f(h,0)-f(0,0)}{h},\qquad f_y(0,0)=\lim_{h\to0}\frac{f(0,h)-f(0,0)}{h}.$$
-
-**Derivada direccional** en dirección $v=(a,b)$ con $\|v\|=1$:
-
-$$D_vf(0,0)=\lim_{t\to0}\frac{f(ta,tb)-f(0,0)}{t}.$$
-
-**Gradiente:** $\nabla f(a)=(f_x(a),f_y(a))$.
-
-**Diferenciabilidad en $a$.** $f$ es diferenciable en $a$ si existen las parciales y
-
-$$\lim_{(h,k)\to(0,0)}\frac{f(a_1+h,a_2+k)-f(a)-f_x(a)\,h-f_y(a)\,k}{\sqrt{h^2+k^2}}=0.$$
-
-**Relaciones (las que se usan en VoF y en ejercicios):**
-
-- Diferenciable $\Rightarrow$ continua.
-- Diferenciable $\Rightarrow$ existen todas las direccionales y $D_vf(a)=\nabla f(a)\cdot v_0$.
-- Parciales continuas en un entorno $\Rightarrow$ diferenciable ($C^1\Rightarrow$ diferenciable).
-- **Los recíprocos son falsos.** Existen todas las direccionales (incluso las parciales) y $f$ puede no ser continua.
-- $D_vf=\nabla f\cdot v_0$ vale **solo si $f$ es diferenciable**.
-
-**Usos del gradiente:**
-
-- Máxima derivada direccional: $\|\nabla f(a)\|$, en la dirección de $\nabla f(a)$.
-- Mínima: $-\|\nabla f(a)\|$, en la dirección de $-\nabla f(a)$.
-- Derivada nula: direcciones $v\perp\nabla f(a)$. En $\mathbb{R}^2$, si $\nabla f=(p,q)$ entonces $v=\dfrac{(q,-p)}{\|(q,-p)\|}$ (o su opuesto).
-
-**"En dirección al punto $Q$ desde $P$"** significa $v=Q-P$, y después se **normaliza**: $v_0=\dfrac{Q-P}{\|Q-P\|}$.
+Notación: $r=\sqrt{x^2+y^2}$ y $v_0=\dfrac{v}{|v|}$ (el vector $v$ normalizado).
 
 ---
 
-## 1. Cotas y atajos útiles para límites
+## 1. Base
 
-Con $r=\sqrt{x^2+y^2}$:
+**Punto.** $a$ es un punto de $\mathbb{R}^2$, o sea un par $a=(a_1,a_2)$. Entonces $f(a)=f(a_1,a_2)$, **no** $f(a,a)$. _En el examen:_ $f_x(a)$ y $f_x(a_1,a_2)$ significan lo mismo. En el origen, $a=(0,0)$. _Ejemplo:_ si $f(x,y)=x^2+y$ y $a=(3,1)$, entonces $f(a)=3^2+1=10$.
 
-- $|x|\le r$ y $|y|\le r$.
-- $|xy|\le\dfrac{r^2}{2}$.
-- $|x|^3+|y|^3\le 2r^3$.
-- $|\operatorname{sen}u|\le1$ y $|\cos u|\le1$.
-- $\dfrac{e^u-1}{u}\to1$ y $\dfrac{\operatorname{sen}u}{u}\to1$ cuando $u\to0$.
+**Norma.** $|(x,y)|=\sqrt{x^2+y^2}$. _En el examen:_ "$(x,y)\to(0,0)$" es lo mismo que "$r\to0$".
 
-**Polares:** $x=\rho\cos\theta,\ y=\rho\operatorname{sen}\theta$. Si queda $\rho^k\,g(\theta)$ con $g$ **acotada** y $k>0$, el límite es $0$. Si el resultado depende de $\theta$ y no se anula, el límite no existe o no es 0.
+**Dirección unitaria.** $v=(a,b)$ con $a^2+b^2=1$. _En el examen:_ solo normalizás cuando vas a calcular una **derivada direccional**. Si $v$ no es unitario, el resultado queda multiplicado por $|v|$. Para el gradiente, el vector normal de un plano o un simple desplazamiento no hace falta.
 
-**Caminos para refutar un límite:** $y=mx$, $x=y^2$, $y=x^2$, $x=y^3$. Elegí el que haga que numerador y denominador tengan el mismo orden.
+**"Dirección al punto $Q$ desde $P$".** $$v=Q-P,\qquad v_0=\frac{Q-P}{|Q-P|}.$$
 
 ---
 
-## 2. Molde A: función partida en el origen
+## 2. Límite y continuidad
 
-$$f(x,y)=\begin{cases}\text{fórmula} & (x,y)\ne(0,0)\\ f(0,0)=c & (x,y)=(0,0)\end{cases}$$
+**Límite (definición formal).** $\displaystyle\lim_{x\to a}f(x)=\ell$ si para todo $\varepsilon>0$ existe $\delta>0$ tal que
 
-### Paso 1. ¿Continua en $(0,0)$?
+$$0<|x-a|<\delta\ \Longrightarrow\ |f(x)-\ell|<\varepsilon.$$
 
-1. Calculá $\displaystyle\lim_{(x,y)\to(0,0)}f$.
-2. Si sospechás que **no** existe: probá $y=0$, $x=0$, $y=mx$, $y=x^2$, $x=y^2$. Si dos caminos difieren, **no es continua**.
-3. Si sospechás que **sí** existe: acotá $|f|\le(\text{algo})\cdot r^k\to0$, o pasá a polares.
-4. Compará el límite con $f(0,0)$.
+_En palabras:_ podés conseguir que $f(x)$ quede tan cerca de $\ell$ como quieras, con tal de acercarte lo suficiente a $a$, **sin importar por qué camino te acerques**. _En el examen:_ casi nunca se usa $\varepsilon$-$\delta$ para calcular. Se usan los métodos de abajo.
 
-### Paso 2. Parciales en el origen
+**Cómo se calcula un límite en $(0,0)$:**
 
-Por definición:
+1. **Reemplazá directo.** Si el denominador no se anula, listo.
+2. Si queda $\frac{0}{0}$, **probá caminos**: $y=0$, $x=0$, $y=mx$, $y=x^2$, $x=y^2$. Si dos dan distinto, **no existe**.
+3. Si todos dan el mismo valor $\ell$, **probá que existe** con una de estas:
+    - **Cota:** mostrá que $|f(x,y)-\ell|\le(\text{algo})\cdot r^k$ con $k>0$. Entonces el límite es $\ell$.
+    - **Polares:** $x=\rho\cos\theta,\ y=\rho\operatorname{sen}\theta$ y $\rho\to0$. Si queda $\rho^k,g(\theta)$ con $g$ acotada y $k>0$, el límite es $0$.
+    - **Límites conocidos:** $\dfrac{\operatorname{sen}u}{u}\to1$ y $\dfrac{e^u-1}{u}\to1$ cuando $u\to0$.
 
-$$f_x(0,0)=\lim_{h\to0}\frac{f(h,0)-f(0,0)}{h},\qquad f_y(0,0)=\lim_{h\to0}\frac{f(0,h)-f(0,0)}{h}.$$
+**Cotas útiles** (con $r=\sqrt{x^2+y^2}$): $|x|\le r$, $|y|\le r$, $|xy|\le\dfrac{r^2}{2}$, $|x|^3+|y|^3\le2r^3$.
 
-Fuera del origen, derivás con las reglas de siempre (cociente, cadena). Para el cociente:
+**Ejemplo:** $\displaystyle\lim_{(x,y)\to(0,0)}\frac{xy^2}{x^2+y^2}$. Como $|xy^2|\le r^3$, queda $\left|\dfrac{xy^2}{x^2+y^2}\right|\le\dfrac{r^3}{r^2}=r\to0$. El límite es $0$.
 
-$$\left(\frac{u}{w}\right)_x=\frac{u_x\,w-u\,w_x}{w^2}.$$
+**Interpretación de caminos:**
 
-### Paso 3. Direccional en el origen
+| Situación                         | Conclusión                            |
+| --------------------------------- | ------------------------------------- |
+| Dos caminos dan límites distintos | El límite **no existe**               |
+| Muchos caminos dan el mismo valor | **No alcanza** para probar que existe |
+| $                                 | f                                     |
 
-Con $v=(a,b)$ unitario, sustituís $(ta,tb)$ en la fórmula y sacás las potencias de $t$:
+**Continuidad en $a$.** $$\lim_{x\to a}f(x)=f(a).$$ _En el examen:_ en una función partida, calculás el límite y lo comparás con el valor asignado en el punto.
 
-$$D_vf(0,0)=\lim_{t\to0}\frac{f(ta,tb)-f(0,0)}{t}.$$
+---
 
-Casi siempre queda una expresión en $a$ y $b$. **Ojo con los casos donde el denominador se anula** (por ejemplo $b=0$): hay que tratarlos aparte.
+## 3. Derivadas
 
-### Paso 4. ¿Diferenciable en $(0,0)$?
+**Derivada parcial.** $$f_x(a,b)=\lim_{h\to0}\frac{f(a+h,b)-f(a,b)}{h},\qquad f_y(a,b)=\lim_{h\to0}\frac{f(a,b+h)-f(a,b)}{h}.$$ _En el examen:_ donde la fórmula cambia (el origen), se calcula **por definición**. En los demás puntos se deriva normalmente.
 
-Orden de chequeos, del más barato al más caro:
+**Derivada direccional** ($v$ unitario). $$D_vf(a)=\lim_{t\to0}\frac{f(a+tv)-f(a)}{t}.$$ _En el examen:_ en el origen, $D_vf(0,0)=\displaystyle\lim_{t\to0}\frac{f(ta,tb)-f(0,0)}{t}$.
 
-1. **¿No es continua?** Entonces **no** es diferenciable. Fin.
-2. **¿No existe alguna parcial?** Entonces **no** es diferenciable. Fin.
-3. **Atajo con la direccional.** Armá $\nabla f(0,0)\cdot v_0$ y compará con $D_vf(0,0)$ del paso 3. Si **para algún** $v$ no coinciden, **no** es diferenciable. Probá con $v=\left(\tfrac1{\sqrt2},\tfrac1{\sqrt2}\right)$.
-4. **Si nada falla**, planteá el límite completo:
+**Gradiente.** $$\nabla f(a)=\big(f_x(a),,f_y(a)\big).$$
 
-$$\lim_{(h,k)\to(0,0)}\frac{f(h,k)-f(0,0)-f_x(0,0)\,h-f_y(0,0)\,k}{\sqrt{h^2+k^2}}\overset{?}{=}0.$$
+**Idea intuitiva.** Pensá que $f(x,y)$ es la **altura** de un terreno en el punto $(x,y)$. Parado en $a$, el gradiente es una flecha que:
 
-Si $f_x(0,0)=f_y(0,0)=0$ y $f(0,0)=0$, se reduce a $\displaystyle\lim\frac{f(h,k)}{r}$. Lo resolvés con cota o polares. Si da $0$, es diferenciable. Si da otra cosa, o no existe, no lo es.
+- apunta hacia **donde el terreno sube más rápido**;
+- tiene un largo que indica **qué tan empinado** es ese subir ($|\nabla f(a)|$).
 
-### Preguntas típicas y qué hacer
+Si estás en un terreno plano, $\nabla f(a)=(0,0)$.
 
-| Piden | Qué hago |
+**Por qué importa:**
+
+1. Resume en un solo vector cuánto cambia $f$ en cada eje ($f_x$ y $f_y$).
+2. Si $f$ es diferenciable, la derivada en **cualquier** dirección sale con una cuenta: $D_vf(a)=\nabla f(a)\cdot v_0$. Por eso en el Molde B, con dos direcciones, se arma el gradiente entero y después se contesta cualquier otra.
+3. Responde directo "¿hacia dónde crece más rápido?" y "¿cuánto?".
+4. Es perpendicular a las curvas de nivel (las líneas de igual altura del mapa).
+
+---
+
+## 4. Diferenciabilidad
+
+**Definición.** $f$ es diferenciable en $a$ si existen las parciales y $$\lim_{(h,k)\to(0,0)}\frac{f(a_1+h,,a_2+k)-f(a)-f_x(a),h-f_y(a),k}{\sqrt{h^2+k^2}}=0.$$
+
+**Consecuencias de ser diferenciable en $a$:**
+
+- $f$ es continua en $a$.
+- Existen todas las direccionales y vale $$D_vf(a)=\nabla f(a)\cdot v_0.$$
+
+**Condición suficiente ($C^1$).** Si $f_x$ y $f_y$ existen y son continuas en un entorno de $a$, entonces $f$ es diferenciable en $a$.
+
+_En el examen:_ esa fórmula con el producto escalar solo vale si $f$ es diferenciable. En el Molde B es dato del enunciado. En el Molde A hay que verificarlo.
+
+---
+
+## 5. Qué implica qué
+
+$$f\ \text{es}\ C^1\ \Longrightarrow\ f\ \text{diferenciable}\ \Longrightarrow\ \begin{cases}f\ \text{continua}\ \text{existen todas las direccionales}\ \text{existen las parciales}\end{cases}$$
+
+**Los recíprocos son falsos:**
+
+|Si vale...|...no se deduce|
 |---|---|
-| "Continuidad en $(0,0)$" | Paso 1 |
-| "$\nabla f(0,0)$" o "¿existen las parciales?" | Paso 2, por definición |
-| "$f_x(x,y)$" para $(x,y)\ne(0,0)$ | Derivo con cociente. No uso la definición |
-| "¿En qué direcciones existe $D_vf(0,0)$?" | Paso 3, y miro dónde se rompe la expresión |
-| "¿Es diferenciable en $(0,0)$?" | Paso 4, en ese orden |
-| "Conjunto de puntos de continuidad" | Fuera del origen: continua (cociente de funciones continuas con denominador $\ne0$). En el origen: Paso 1 |
-| "Existen derivadas parciales en todo $\mathbb{R}^2$" | Fuera del origen: derivo. En el origen: definición (Paso 2) |
+|Existen las parciales|Continua ni diferenciable|
+|Existen todas las direccionales|Continua ni diferenciable|
+|Continua|Diferenciable|
+|Diferenciable|$C^1$|
 
-### Mini-ejemplo resuelto (final 04/07/24): $f=\dfrac{x^3+y^3}{x^2+y^2}$, $f(0,0)=0$
+**Atajos para probar que NO es diferenciable** (de más rápido a más lento):
 
-- Continuidad: $|f|\le\dfrac{2r^3}{r^2}=2r\to0$, así que es continua.
-- Parciales: $f_x(0,0)=\lim\dfrac{h^3/h^2}{h}=1$ y $f_y(0,0)=1$, entonces $\nabla f(0,0)=(1,1)$.
-- Direccional: $D_vf(0,0)=a^3+b^3$. Existe en todas las direcciones.
-- Diferenciabilidad: con $v_0=\left(\tfrac1{\sqrt2},\tfrac1{\sqrt2}\right)$, $D_vf=\tfrac1{\sqrt2}$ pero $\nabla f\cdot v_0=\sqrt2$, así que **no es diferenciable**.
+1. No es continua.
+2. Falta una parcial.
+3. Algún $v$ cumple $D_vf(a)\ne\nabla f(a)\cdot v_0$.
 
 ---
 
-## 3. Molde B: gradiente a partir de derivadas direccionales
+## 6. Usos del gradiente
 
-Datos típicos: "$f$ diferenciable; en $P$ las direccionales hacia $Q_1$ y hacia $Q_2$ valen $d_1$ y $d_2$".
+Para $f$ diferenciable en $a$ y $\nabla f(a)\ne0$:
 
-1. Calculá $v_1=Q_1-P$ y $v_2=Q_2-P$, y **normalizalos** ($v_{0}=v/\|v\|$).
-2. Por diferenciabilidad: $\nabla f(P)\cdot v_{01}=d_1$ y $\nabla f(P)\cdot v_{02}=d_2$.
-3. Escribí las dos ecuaciones en $(f_x,f_y)$ y resolvé el sistema de $2\times2$.
-4. Para la dirección pedida, calculá $v_0$ y hacé $D=\nabla f(P)\cdot v_0$.
+|Pregunta|Respuesta|
+|---|---|
+|Dirección de máximo crecimiento|$\nabla f(a)$|
+|Valor máximo de $D_vf(a)$|$\|\nabla f(a)\|$|
+|Dirección de máximo decrecimiento|$-\nabla f(a)$|
+|Valor mínimo de $D_vf(a)$|$-\|\nabla f(a)\|$|
+|Direcciones con derivada nula|$v\perp\nabla f(a)$|
+|Relación con la curva de nivel|$\nabla f(a)$ es perpendicular a la curva de nivel que pasa por $a$|
 
-**Truco:** multiplicá por $\|v\|$ en ambos lados para limpiar la raíz. Si $v=(3,4)$, $\|v\|=5$, queda $3f_x+4f_y=5\,d$.
-
-### Mini-ejemplo resuelto (final 27/02/25)
-
-$P=(1,2)$, direcciones hacia $(2,2)$ y hacia $(1,1)$, con valores $2$ y $-2$.
-
-- Hacia $(2,2)$: $v=(1,0)$, entonces $f_x=2$.
-- Hacia $(1,1)$: $v=(0,-1)$, entonces $-f_y=-2$ y $f_y=2$.
-- $\nabla f(1,2)=(2,2)$.
-- Hacia $(4,6)$: $v=(3,4)$, $\|v\|=5$, entonces $D=\dfrac{2\cdot3+2\cdot4}{5}=\dfrac{14}{5}$.
+En $\mathbb{R}^2$, si $\nabla f=(p,q)$, una dirección con derivada nula es $v=\dfrac{(q,-p)}{|(q,-p)|}$.
 
 ---
 
-## 4. Errores típicos (los que más cuestan puntos)
+## 7. Otras definiciones que pueden aparecer
 
-- **No normalizar $v$** en la direccional.
-- Usar $D_vf=\nabla f\cdot v$ **sin** saber que $f$ es diferenciable (en el Molde A hay que verificarlo, en el B es dato).
-- Concluir que el límite existe porque "dio $0$ por los ejes". Hay que probar con una cota o polares.
-- Calcular las parciales **en el origen** con las fórmulas de derivar. Se hacen por definición.
-- Olvidar tratar aparte el caso donde el denominador de $D_vf$ se anula (por ejemplo $b=0$).
-- En el paso 4, dividir por $\sqrt{h^2+k^2}$ y no por $h$ o por $k$.
+**Curva de nivel $\alpha$.** $$C_\alpha={(x,y):f(x,y)=\alpha}.$$
+
+**Plano tangente** a $z=f(x,y)$ en $(a,b)$. $$z=f(a,b)+f_x(a,b)(x-a)+f_y(a,b)(y-b).$$ Si la superficie es $F(x,y,z)=0$, el vector normal en $p$ es $\nabla F(p)$.
+
+**Regla de la cadena.** Si $u(x,y)=f\big(s(x,y),,t(x,y)\big)$: $$u_x=D_1f\cdot s_x+D_2f\cdot t_x,\qquad u_y=D_1f\cdot s_y+D_2f\cdot t_y.$$
+
+**Teorema de Schwarz.** Si $f_{xy}$ y $f_{yx}$ son continuas en $a$, entonces $f_{xy}(a)=f_{yx}(a)$. _En el examen:_ sirve para decidir si existe una $f$ con ciertas parciales dadas.
+
+**Matriz Jacobiana.** Para $f=(f_1,\dots,f_m)$, la fila $k$ de $J_f(a)$ es $\nabla f_k(a)$. Cadena de funciones vectoriales: $$J_{g\circ f}(a)=J_g\big(f(a)\big)\cdot J_f(a).$$
+
+**Topología** (para $A\subset\mathbb{R}^n$):
+
+|Concepto|Definición|
+|---|---|
+|Bola|$B(a,\rho)={x:\|x-a\|<\rho}$|
+|Interior|Existe una bola centrada en el punto contenida en $A$|
+|Exterior|Existe una bola contenida en el complemento $A^c$|
+|Frontera|Toda bola centrada en el punto corta a $A$ y a $A^c$|
+|Abierto|$A$ no contiene ningún punto de su frontera ($A=\operatorname{int}A$)|
+|Cerrado|$A$ contiene toda su frontera|
+
+_Regla práctica:_ desigualdades estrictas dan un conjunto abierto, y no estrictas dan uno cerrado.
 
 ---
 
-## 5. Orden de ataque en el parcial
+## 8. Frases para el VoF
 
-1. Identificá el molde (partida en el origen, o direccionales + gradiente).
-2. Molde A: seguí los pasos 1 a 4 en orden. Cada paso alimenta al siguiente.
-3. Molde B: normalizá, planteá el sistema y resolvé.
-4. Si te trabás en un paso, dejá el planteo escrito: las definiciones del apartado 0 valen puntos.z
+- Diferenciable $\Rightarrow$ continua. **El recíproco es falso.**
+- Parciales continuas $\Rightarrow$ diferenciable. **El recíproco es falso.**
+- Existen las parciales $\not\Rightarrow$ continua.
+- Existen todas las direccionales $\not\Rightarrow$ continua.
+- $D_vf=\nabla f\cdot v_0$ **solo si $f$ es diferenciable**, con $v_0$ unitario.
+- Dos caminos con límites distintos $\Rightarrow$ el límite no existe.
+- Todos los caminos con el mismo límite $\not\Rightarrow$ el límite existe.
+- Schwarz necesita que las derivadas cruzadas sean continuas.
+- $\varnothing$ y $\mathbb{R}^n$ son abiertos y cerrados a la vez. Hay conjuntos que no son ni abiertos ni cerrados.
